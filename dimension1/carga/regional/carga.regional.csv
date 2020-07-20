@@ -1,0 +1,2225 @@
+"fecha";"region";"carga.estimada";"carga.liminf";"carga.lisup"
+"2020-03-01";"Región de Antofagasta";1;0;3
+"2020-03-02";"Región de Antofagasta";1;0;3
+"2020-03-03";"Región de Antofagasta";1;0;3
+"2020-03-04";"Región de Antofagasta";1;0;3
+"2020-03-05";"Región de Antofagasta";1;0;3
+"2020-03-06";"Región de Antofagasta";1;0;3
+"2020-03-07";"Región de Antofagasta";1;0;4
+"2020-03-08";"Región de Antofagasta";1;0;4
+"2020-03-09";"Región de Antofagasta";2;0;5
+"2020-03-10";"Región de Antofagasta";2;0;4
+"2020-03-11";"Región de Antofagasta";2;0;4
+"2020-03-12";"Región de Antofagasta";2;0;5
+"2020-03-13";"Región de Antofagasta";2;0;5
+"2020-03-14";"Región de Antofagasta";3;0;6
+"2020-03-15";"Región de Antofagasta";3;0;7
+"2020-03-16";"Región de Antofagasta";3;0;7
+"2020-03-17";"Región de Antofagasta";4;0;8
+"2020-03-18";"Región de Antofagasta";4;0;8
+"2020-03-19";"Región de Antofagasta";4;1;9
+"2020-03-20";"Región de Antofagasta";4;0;9
+"2020-03-21";"Región de Antofagasta";5;1;10
+"2020-03-22";"Región de Antofagasta";5;1;11
+"2020-03-23";"Región de Antofagasta";6;1;12
+"2020-03-24";"Región de Antofagasta";6;1;11
+"2020-03-25";"Región de Antofagasta";6;2;12
+"2020-03-26";"Región de Antofagasta";6;1;12
+"2020-03-27";"Región de Antofagasta";7;2;12
+"2020-03-28";"Región de Antofagasta";7;2;13
+"2020-03-29";"Región de Antofagasta";8;3;14
+"2020-03-30";"Región de Antofagasta";10;5;16
+"2020-03-31";"Región de Antofagasta";11;4;19
+"2020-04-01";"Región de Antofagasta";14;7;23
+"2020-04-02";"Región de Antofagasta";17;9;27
+"2020-04-03";"Región de Antofagasta";18;9;30
+"2020-04-04";"Región de Antofagasta";30;18;44
+"2020-04-05";"Región de Antofagasta";28;14;39
+"2020-04-06";"Región de Antofagasta";31;18;43
+"2020-04-07";"Región de Antofagasta";32;21;44
+"2020-04-08";"Región de Antofagasta";45;30;61
+"2020-04-09";"Región de Antofagasta";36;23;49
+"2020-04-10";"Región de Antofagasta";40;25;57
+"2020-04-11";"Región de Antofagasta";38;25;53
+"2020-04-12";"Región de Antofagasta";38;23;55
+"2020-04-13";"Región de Antofagasta";39;25;56
+"2020-04-14";"Región de Antofagasta";42;27;58
+"2020-04-15";"Región de Antofagasta";45;30;60
+"2020-04-16";"Región de Antofagasta";50;32;68
+"2020-04-17";"Región de Antofagasta";49;34;71
+"2020-04-18";"Región de Antofagasta";60;43;85
+"2020-04-19";"Región de Antofagasta";58;40;75
+"2020-04-20";"Región de Antofagasta";89;67;110
+"2020-04-21";"Región de Antofagasta";67;48;87
+"2020-04-22";"Región de Antofagasta";71;53;88
+"2020-04-23";"Región de Antofagasta";64;48;82
+"2020-04-24";"Región de Antofagasta";80;60;101
+"2020-04-25";"Región de Antofagasta";81;62;104
+"2020-04-26";"Región de Antofagasta";73;52;101
+"2020-04-27";"Región de Antofagasta";96;75;117
+"2020-04-28";"Región de Antofagasta";83;61;109
+"2020-04-29";"Región de Antofagasta";121;92;149
+"2020-04-30";"Región de Antofagasta";125;100;152
+"2020-05-01";"Región de Antofagasta";162;130;197
+"2020-05-02";"Región de Antofagasta";113;84;139
+"2020-05-03";"Región de Antofagasta";121;93;146
+"2020-05-04";"Región de Antofagasta";160;130;194
+"2020-05-05";"Región de Antofagasta";113;85;141
+"2020-05-06";"Región de Antofagasta";97;74;123
+"2020-05-07";"Región de Antofagasta";100;76;127
+"2020-05-08";"Región de Antofagasta";90;67;119
+"2020-05-09";"Región de Antofagasta";97;76;123
+"2020-05-10";"Región de Antofagasta";114;88;141
+"2020-05-11";"Región de Antofagasta";122;96;153
+"2020-05-12";"Región de Antofagasta";122;94;149
+"2020-05-13";"Región de Antofagasta";107;83;136
+"2020-05-14";"Región de Antofagasta";114;87;141
+"2020-05-15";"Región de Antofagasta";129;103;164
+"2020-05-16";"Región de Antofagasta";119;94;149
+"2020-05-17";"Región de Antofagasta";116;90;144
+"2020-05-18";"Región de Antofagasta";119;89;143
+"2020-05-19";"Región de Antofagasta";115;91;141
+"2020-05-20";"Región de Antofagasta";124;99;153
+"2020-05-21";"Región de Antofagasta";115;92;146
+"2020-05-22";"Región de Antofagasta";124;97;152
+"2020-05-23";"Región de Antofagasta";120;93;147
+"2020-05-24";"Región de Antofagasta";125;96;155
+"2020-05-25";"Región de Antofagasta";144;114;177
+"2020-05-26";"Región de Antofagasta";134;105;166
+"2020-05-27";"Región de Antofagasta";137;105;165
+"2020-05-28";"Región de Antofagasta";145;114;170
+"2020-05-29";"Región de Antofagasta";148;116;179
+"2020-05-30";"Región de Antofagasta";169;141;199
+"2020-05-31";"Región de Antofagasta";181;152;220
+"2020-06-01";"Región de Antofagasta";239;201;276
+"2020-06-02";"Región de Antofagasta";216;178;254
+"2020-06-03";"Región de Antofagasta";206;177;238
+"2020-06-04";"Región de Antofagasta";225;187;267
+"2020-06-05";"Región de Antofagasta";266;219;303
+"2020-06-06";"Región de Antofagasta";261;229;299
+"2020-06-07";"Región de Antofagasta";237;203;274
+"2020-06-08";"Región de Antofagasta";264;228;306
+"2020-06-09";"Región de Antofagasta";242;206;282
+"2020-06-10";"Región de Antofagasta";273;227;315
+"2020-06-11";"Región de Antofagasta";282;237;326
+"2020-06-12";"Región de Antofagasta";330;286;381
+"2020-06-13";"Región de Antofagasta";289;248;332
+"2020-06-14";"Región de Antofagasta";290;244;329
+"2020-06-15";"Región de Antofagasta";336;289;385
+"2020-06-16";"Región de Antofagasta";275;235;321
+"2020-06-17";"Región de Antofagasta";291;247;332
+"2020-06-18";"Región de Antofagasta";301;260;344
+"2020-06-19";"Región de Antofagasta";308;268;351
+"2020-06-20";"Región de Antofagasta";306;265;348
+"2020-06-21";"Región de Antofagasta";274;234;317
+"2020-06-22";"Región de Antofagasta";338;290;392
+"2020-06-23";"Región de Antofagasta";320;274;368
+"2020-06-24";"Región de Antofagasta";291;244;345
+"2020-06-25";"Región de Antofagasta";290;248;342
+"2020-06-26";"Región de Antofagasta";295;252;339
+"2020-06-27";"Región de Antofagasta";269;230;314
+"2020-06-28";"Región de Antofagasta";298;246;358
+"2020-06-29";"Región de Antofagasta";289;238;344
+"2020-06-30";"Región de Antofagasta";329;285;381
+"2020-07-01";"Región de Antofagasta";341;288;397
+"2020-07-02";"Región de Antofagasta";284;236;332
+"2020-07-03";"Región de Antofagasta";302;256;355
+"2020-07-04";"Región de Antofagasta";299;254;350
+"2020-07-05";"Región de Antofagasta";276;234;320
+"2020-07-06";"Región de Antofagasta";285;240;330
+"2020-07-07";"Región de Antofagasta";266;225;311
+"2020-07-08";"Región de Antofagasta";214;179;261
+"2020-07-09";"Región de Antofagasta";230;190;274
+"2020-07-10";"Región de Antofagasta";222;183;263
+"2020-07-11";"Región de Antofagasta";221;182;270
+"2020-07-12";"Región de Antofagasta";228;180;294
+"2020-07-13";"Región de Antofagasta";216;161;284
+"2020-07-14";"Región de Antofagasta";206;152;287
+"2020-07-15";"Región de Antofagasta";177;120;254
+"2020-07-16";"Región de Antofagasta";174;115;266
+"2020-07-17";"Región de Antofagasta";176;109;292
+"2020-03-01";"Región Metropolitana de Santiago";2;0;6
+"2020-03-02";"Región Metropolitana de Santiago";3;0;7
+"2020-03-03";"Región Metropolitana de Santiago";4;0;9
+"2020-03-04";"Región Metropolitana de Santiago";5;1;9
+"2020-03-05";"Región Metropolitana de Santiago";6;1;11
+"2020-03-06";"Región Metropolitana de Santiago";7;2;14
+"2020-03-07";"Región Metropolitana de Santiago";9;4;17
+"2020-03-08";"Región Metropolitana de Santiago";14;7;23
+"2020-03-09";"Región Metropolitana de Santiago";21;11;30
+"2020-03-10";"Región Metropolitana de Santiago";31;19;45
+"2020-03-11";"Región Metropolitana de Santiago";33;21;45
+"2020-03-12";"Región Metropolitana de Santiago";44;28;60
+"2020-03-13";"Región Metropolitana de Santiago";67;46;85
+"2020-03-14";"Región Metropolitana de Santiago";90;67;117
+"2020-03-15";"Región Metropolitana de Santiago";104;81;129
+"2020-03-16";"Región Metropolitana de Santiago";145;118;177
+"2020-03-17";"Región Metropolitana de Santiago";128;102;154
+"2020-03-18";"Región Metropolitana de Santiago";132;105;164
+"2020-03-19";"Región Metropolitana de Santiago";133;108;164
+"2020-03-20";"Región Metropolitana de Santiago";145;114;176
+"2020-03-21";"Región Metropolitana de Santiago";130;103;164
+"2020-03-22";"Región Metropolitana de Santiago";118;91;147
+"2020-03-23";"Región Metropolitana de Santiago";137;108;171
+"2020-03-24";"Región Metropolitana de Santiago";134;105;161
+"2020-03-25";"Región Metropolitana de Santiago";135;106;169
+"2020-03-26";"Región Metropolitana de Santiago";138;109;161
+"2020-03-27";"Región Metropolitana de Santiago";140;111;170
+"2020-03-28";"Región Metropolitana de Santiago";134;110;163
+"2020-03-29";"Región Metropolitana de Santiago";126;99;155
+"2020-03-30";"Región Metropolitana de Santiago";171;146;202
+"2020-03-31";"Región Metropolitana de Santiago";168;142;202
+"2020-04-01";"Región Metropolitana de Santiago";219;183;256
+"2020-04-02";"Región Metropolitana de Santiago";200;169;236
+"2020-04-03";"Región Metropolitana de Santiago";215;175;253
+"2020-04-04";"Región Metropolitana de Santiago";250;211;289
+"2020-04-05";"Región Metropolitana de Santiago";244;206;290
+"2020-04-06";"Región Metropolitana de Santiago";318;272;361
+"2020-04-07";"Región Metropolitana de Santiago";292;245;339
+"2020-04-08";"Región Metropolitana de Santiago";293;249;337
+"2020-04-09";"Región Metropolitana de Santiago";316;274;361
+"2020-04-10";"Región Metropolitana de Santiago";369;319;420
+"2020-04-11";"Región Metropolitana de Santiago";331;281;375
+"2020-04-12";"Región Metropolitana de Santiago";367;317;420
+"2020-04-13";"Región Metropolitana de Santiago";571;512;632
+"2020-04-14";"Región Metropolitana de Santiago";592;518;658
+"2020-04-15";"Región Metropolitana de Santiago";676;596;753
+"2020-04-16";"Región Metropolitana de Santiago";639;587;707
+"2020-04-17";"Región Metropolitana de Santiago";692;621;762
+"2020-04-18";"Región Metropolitana de Santiago";682;624;759
+"2020-04-19";"Región Metropolitana de Santiago";645;576;699
+"2020-04-20";"Región Metropolitana de Santiago";1112;1011;1215
+"2020-04-21";"Región Metropolitana de Santiago";950;874;1028
+"2020-04-22";"Región Metropolitana de Santiago";998;914;1088
+"2020-04-23";"Región Metropolitana de Santiago";1052;958;1141
+"2020-04-24";"Región Metropolitana de Santiago";1194;1112;1284
+"2020-04-25";"Región Metropolitana de Santiago";1270;1163;1363
+"2020-04-26";"Región Metropolitana de Santiago";1279;1183;1388
+"2020-04-27";"Región Metropolitana de Santiago";2088;1976;2221
+"2020-04-28";"Región Metropolitana de Santiago";1948;1832;2076
+"2020-04-29";"Región Metropolitana de Santiago";1979;1866;2090
+"2020-04-30";"Región Metropolitana de Santiago";2441;2294;2577
+"2020-05-01";"Región Metropolitana de Santiago";3148;3009;3273
+"2020-05-02";"Región Metropolitana de Santiago";3231;3098;3385
+"2020-05-03";"Región Metropolitana de Santiago";3222;3057;3374
+"2020-05-04";"Región Metropolitana de Santiago";4835;4631;5022
+"2020-05-05";"Región Metropolitana de Santiago";4366;4172;4539
+"2020-05-06";"Región Metropolitana de Santiago";3400;3259;3558
+"2020-05-07";"Región Metropolitana de Santiago";3594;3459;3729
+"2020-05-08";"Región Metropolitana de Santiago";4013;3831;4192
+"2020-05-09";"Región Metropolitana de Santiago";4263;4119;4435
+"2020-05-10";"Región Metropolitana de Santiago";4798;4613;4960
+"2020-05-11";"Región Metropolitana de Santiago";5335;5166;5516
+"2020-05-12";"Región Metropolitana de Santiago";4703;4532;4893
+"2020-05-13";"Región Metropolitana de Santiago";4276;4119;4444
+"2020-05-14";"Región Metropolitana de Santiago";4143;3968;4328
+"2020-05-15";"Región Metropolitana de Santiago";5389;5184;5567
+"2020-05-16";"Región Metropolitana de Santiago";4898;4693;5061
+"2020-05-17";"Región Metropolitana de Santiago";4830;4664;5036
+"2020-05-18";"Región Metropolitana de Santiago";6144;5921;6379
+"2020-05-19";"Región Metropolitana de Santiago";5010;4845;5188
+"2020-05-20";"Región Metropolitana de Santiago";5846;5624;6044
+"2020-05-21";"Región Metropolitana de Santiago";4873;4697;5094
+"2020-05-22";"Región Metropolitana de Santiago";5590;5390;5812
+"2020-05-23";"Región Metropolitana de Santiago";5276;5082;5477
+"2020-05-24";"Región Metropolitana de Santiago";4862;4686;5043
+"2020-05-25";"Región Metropolitana de Santiago";6446;6272;6638
+"2020-05-26";"Región Metropolitana de Santiago";4662;4513;4858
+"2020-05-27";"Región Metropolitana de Santiago";4722;4538;4885
+"2020-05-28";"Región Metropolitana de Santiago";4986;4806;5170
+"2020-05-29";"Región Metropolitana de Santiago";5089;4927;5277
+"2020-05-30";"Región Metropolitana de Santiago";4874;4701;5063
+"2020-05-31";"Región Metropolitana de Santiago";4582;4419;4754
+"2020-06-01";"Región Metropolitana de Santiago";7208;6990;7418
+"2020-06-02";"Región Metropolitana de Santiago";4614;4430;4802
+"2020-06-03";"Región Metropolitana de Santiago";4290;4126;4461
+"2020-06-04";"Región Metropolitana de Santiago";4343;4154;4547
+"2020-06-05";"Región Metropolitana de Santiago";5206;5027;5385
+"2020-06-06";"Región Metropolitana de Santiago";4658;4494;4807
+"2020-06-07";"Región Metropolitana de Santiago";4177;4006;4400
+"2020-06-08";"Región Metropolitana de Santiago";5409;5234;5570
+"2020-06-09";"Región Metropolitana de Santiago";4141;3943;4318
+"2020-06-10";"Región Metropolitana de Santiago";4401;4189;4582
+"2020-06-11";"Región Metropolitana de Santiago";3736;3573;3941
+"2020-06-12";"Región Metropolitana de Santiago";4203;4024;4380
+"2020-06-13";"Región Metropolitana de Santiago";3864;3702;4028
+"2020-06-14";"Región Metropolitana de Santiago";3568;3403;3723
+"2020-06-15";"Región Metropolitana de Santiago";4426;4249;4603
+"2020-06-16";"Región Metropolitana de Santiago";3474;3327;3628
+"2020-06-17";"Región Metropolitana de Santiago";3138;2957;3281
+"2020-06-18";"Región Metropolitana de Santiago";3222;3068;3365
+"2020-06-19";"Región Metropolitana de Santiago";3274;3130;3416
+"2020-06-20";"Región Metropolitana de Santiago";3247;3093;3408
+"2020-06-21";"Región Metropolitana de Santiago";2858;2700;3022
+"2020-06-22";"Región Metropolitana de Santiago";3225;3051;3380
+"2020-06-23";"Región Metropolitana de Santiago";2708;2562;2871
+"2020-06-24";"Región Metropolitana de Santiago";2449;2298;2598
+"2020-06-25";"Región Metropolitana de Santiago";2322;2169;2469
+"2020-06-26";"Región Metropolitana de Santiago";2344;2210;2494
+"2020-06-27";"Región Metropolitana de Santiago";2087;1944;2195
+"2020-06-28";"Región Metropolitana de Santiago";2266;2054;2450
+"2020-06-29";"Región Metropolitana de Santiago";2601;2371;2781
+"2020-06-30";"Región Metropolitana de Santiago";2573;2352;2809
+"2020-07-01";"Región Metropolitana de Santiago";2582;2359;2775
+"2020-07-02";"Región Metropolitana de Santiago";1861;1703;2013
+"2020-07-03";"Región Metropolitana de Santiago";1906;1757;2083
+"2020-07-04";"Región Metropolitana de Santiago";1908;1735;2066
+"2020-07-05";"Región Metropolitana de Santiago";1849;1725;2044
+"2020-07-06";"Región Metropolitana de Santiago";2050;1918;2236
+"2020-07-07";"Región Metropolitana de Santiago";1664;1547;1813
+"2020-07-08";"Región Metropolitana de Santiago";1461;1346;1607
+"2020-07-09";"Región Metropolitana de Santiago";1390;1269;1538
+"2020-07-10";"Región Metropolitana de Santiago";1534;1423;1671
+"2020-07-11";"Región Metropolitana de Santiago";1330;1216;1460
+"2020-07-12";"Región Metropolitana de Santiago";1597;1371;1843
+"2020-07-13";"Región Metropolitana de Santiago";1587;1352;1860
+"2020-07-14";"Región Metropolitana de Santiago";1255;1026;1534
+"2020-07-15";"Región Metropolitana de Santiago";890;715;1112
+"2020-07-16";"Región Metropolitana de Santiago";786;629;1042
+"2020-07-17";"Región Metropolitana de Santiago";843;589;1245
+"2020-03-01";"Región de la Araucanía";1;0;2
+"2020-03-02";"Región de la Araucanía";1;0;2
+"2020-03-03";"Región de la Araucanía";1;0;2
+"2020-03-04";"Región de la Araucanía";1;0;2
+"2020-03-05";"Región de la Araucanía";1;0;2
+"2020-03-06";"Región de la Araucanía";1;0;3
+"2020-03-07";"Región de la Araucanía";1;0;4
+"2020-03-08";"Región de la Araucanía";1;0;4
+"2020-03-09";"Región de la Araucanía";2;0;5
+"2020-03-10";"Región de la Araucanía";2;0;6
+"2020-03-11";"Región de la Araucanía";4;1;8
+"2020-03-12";"Región de la Araucanía";4;0;9
+"2020-03-13";"Región de la Araucanía";6;1;11
+"2020-03-14";"Región de la Araucanía";7;2;14
+"2020-03-15";"Región de la Araucanía";10;3;17
+"2020-03-16";"Región de la Araucanía";14;6;23
+"2020-03-17";"Región de la Araucanía";17;10;26
+"2020-03-18";"Región de la Araucanía";21;11;32
+"2020-03-19";"Región de la Araucanía";28;16;40
+"2020-03-20";"Región de la Araucanía";28;17;42
+"2020-03-21";"Región de la Araucanía";33;20;46
+"2020-03-22";"Región de la Araucanía";36;23;55
+"2020-03-23";"Región de la Araucanía";34;22;47
+"2020-03-24";"Región de la Araucanía";37;25;50
+"2020-03-25";"Región de la Araucanía";33;20;47
+"2020-03-26";"Región de la Araucanía";41;28;57
+"2020-03-27";"Región de la Araucanía";43;29;58
+"2020-03-28";"Región de la Araucanía";46;32;63
+"2020-03-29";"Región de la Araucanía";42;28;59
+"2020-03-30";"Región de la Araucanía";42;29;59
+"2020-03-31";"Región de la Araucanía";44;32;58
+"2020-04-01";"Región de la Araucanía";49;34;67
+"2020-04-02";"Región de la Araucanía";43;29;58
+"2020-04-03";"Región de la Araucanía";43;28;59
+"2020-04-04";"Región de la Araucanía";42;26;57
+"2020-04-05";"Región de la Araucanía";40;25;57
+"2020-04-06";"Región de la Araucanía";43;27;60
+"2020-04-07";"Región de la Araucanía";40;25;55
+"2020-04-08";"Región de la Araucanía";39;26;54
+"2020-04-09";"Región de la Araucanía";44;30;61
+"2020-04-10";"Región de la Araucanía";43;31;58
+"2020-04-11";"Región de la Araucanía";44;28;59
+"2020-04-12";"Región de la Araucanía";49;33;65
+"2020-04-13";"Región de la Araucanía";56;41;71
+"2020-04-14";"Región de la Araucanía";60;43;77
+"2020-04-15";"Región de la Araucanía";56;42;72
+"2020-04-16";"Región de la Araucanía";54;38;71
+"2020-04-17";"Región de la Araucanía";50;34;66
+"2020-04-18";"Región de la Araucanía";48;34;66
+"2020-04-19";"Región de la Araucanía";53;38;69
+"2020-04-20";"Región de la Araucanía";61;44;79
+"2020-04-21";"Región de la Araucanía";57;41;74
+"2020-04-22";"Región de la Araucanía";50;35;66
+"2020-04-23";"Región de la Araucanía";43;29;60
+"2020-04-24";"Región de la Araucanía";40;28;54
+"2020-04-25";"Región de la Araucanía";38;23;54
+"2020-04-26";"Región de la Araucanía";39;23;53
+"2020-04-27";"Región de la Araucanía";41;29;54
+"2020-04-28";"Región de la Araucanía";42;30;55
+"2020-04-29";"Región de la Araucanía";41;27;55
+"2020-04-30";"Región de la Araucanía";41;29;53
+"2020-05-01";"Región de la Araucanía";41;29;55
+"2020-05-02";"Región de la Araucanía";39;25;54
+"2020-05-03";"Región de la Araucanía";38;26;53
+"2020-05-04";"Región de la Araucanía";39;26;55
+"2020-05-05";"Región de la Araucanía";37;24;49
+"2020-05-06";"Región de la Araucanía";38;25;51
+"2020-05-07";"Región de la Araucanía";40;29;53
+"2020-05-08";"Región de la Araucanía";40;29;55
+"2020-05-09";"Región de la Araucanía";39;26;53
+"2020-05-10";"Región de la Araucanía";45;32;61
+"2020-05-11";"Región de la Araucanía";47;34;63
+"2020-05-12";"Región de la Araucanía";52;37;71
+"2020-05-13";"Región de la Araucanía";56;38;74
+"2020-05-14";"Región de la Araucanía";53;38;70
+"2020-05-15";"Región de la Araucanía";53;36;70
+"2020-05-16";"Región de la Araucanía";62;45;79
+"2020-05-17";"Región de la Araucanía";66;48;85
+"2020-05-18";"Región de la Araucanía";69;51;90
+"2020-05-19";"Región de la Araucanía";71;54;93
+"2020-05-20";"Región de la Araucanía";76;58;95
+"2020-05-21";"Región de la Araucanía";68;50;87
+"2020-05-22";"Región de la Araucanía";67;49;88
+"2020-05-23";"Región de la Araucanía";80;60;101
+"2020-05-24";"Región de la Araucanía";75;57;99
+"2020-05-25";"Región de la Araucanía";82;63;101
+"2020-05-26";"Región de la Araucanía";88;70;110
+"2020-05-27";"Región de la Araucanía";77;58;98
+"2020-05-28";"Región de la Araucanía";69;50;89
+"2020-05-29";"Región de la Araucanía";66;48;87
+"2020-05-30";"Región de la Araucanía";66;46;88
+"2020-05-31";"Región de la Araucanía";63;44;86
+"2020-06-01";"Región de la Araucanía";64;46;81
+"2020-06-02";"Región de la Araucanía";57;43;74
+"2020-06-03";"Región de la Araucanía";59;43;77
+"2020-06-04";"Región de la Araucanía";65;46;82
+"2020-06-05";"Región de la Araucanía";72;55;89
+"2020-06-06";"Región de la Araucanía";75;55;97
+"2020-06-07";"Región de la Araucanía";75;58;97
+"2020-06-08";"Región de la Araucanía";74;56;94
+"2020-06-09";"Región de la Araucanía";63;47;80
+"2020-06-10";"Región de la Araucanía";65;48;82
+"2020-06-11";"Región de la Araucanía";65;50;83
+"2020-06-12";"Región de la Araucanía";68;49;92
+"2020-06-13";"Región de la Araucanía";66;51;87
+"2020-06-14";"Región de la Araucanía";67;51;83
+"2020-06-15";"Región de la Araucanía";69;50;87
+"2020-06-16";"Región de la Araucanía";62;46;80
+"2020-06-17";"Región de la Araucanía";55;40;73
+"2020-06-18";"Región de la Araucanía";48;34;64
+"2020-06-19";"Región de la Araucanía";49;34;63
+"2020-06-20";"Región de la Araucanía";50;34;65
+"2020-06-21";"Región de la Araucanía";55;39;75
+"2020-06-22";"Región de la Araucanía";67;50;86
+"2020-06-23";"Región de la Araucanía";66;50;85
+"2020-06-24";"Región de la Araucanía";65;48;85
+"2020-06-25";"Región de la Araucanía";60;42;80
+"2020-06-26";"Región de la Araucanía";57;39;77
+"2020-06-27";"Región de la Araucanía";57;40;75
+"2020-06-28";"Región de la Araucanía";68;50;87
+"2020-06-29";"Región de la Araucanía";68;50;88
+"2020-06-30";"Región de la Araucanía";66;49;94
+"2020-07-01";"Región de la Araucanía";67;48;86
+"2020-07-02";"Región de la Araucanía";57;39;76
+"2020-07-03";"Región de la Araucanía";57;41;75
+"2020-07-04";"Región de la Araucanía";55;38;74
+"2020-07-05";"Región de la Araucanía";54;38;73
+"2020-07-06";"Región de la Araucanía";48;34;65
+"2020-07-07";"Región de la Araucanía";45;32;60
+"2020-07-08";"Región de la Araucanía";41;28;55
+"2020-07-09";"Región de la Araucanía";36;23;51
+"2020-07-10";"Región de la Araucanía";29;18;44
+"2020-07-11";"Región de la Araucanía";25;15;35
+"2020-07-12";"Región de la Araucanía";21;12;34
+"2020-07-13";"Región de la Araucanía";19;10;28
+"2020-07-14";"Región de la Araucanía";17;8;30
+"2020-07-15";"Región de la Araucanía";16;8;29
+"2020-07-16";"Región de la Araucanía";16;6;30
+"2020-07-17";"Región de la Araucanía";16;5;33
+"2020-03-01";"Región del Ñuble";0;0;2
+"2020-03-02";"Región del Ñuble";0;0;2
+"2020-03-03";"Región del Ñuble";1;0;3
+"2020-03-04";"Región del Ñuble";1;0;3
+"2020-03-05";"Región del Ñuble";1;0;3
+"2020-03-06";"Región del Ñuble";1;0;3
+"2020-03-07";"Región del Ñuble";1;0;3
+"2020-03-08";"Región del Ñuble";1;0;4
+"2020-03-09";"Región del Ñuble";1;0;4
+"2020-03-10";"Región del Ñuble";2;0;5
+"2020-03-11";"Región del Ñuble";3;0;8
+"2020-03-12";"Región del Ñuble";6;2;12
+"2020-03-13";"Región del Ñuble";10;3;17
+"2020-03-14";"Región del Ñuble";14;6;23
+"2020-03-15";"Región del Ñuble";18;9;28
+"2020-03-16";"Región del Ñuble";22;13;32
+"2020-03-17";"Región del Ñuble";26;14;37
+"2020-03-18";"Región del Ñuble";25;14;37
+"2020-03-19";"Región del Ñuble";27;17;39
+"2020-03-20";"Región del Ñuble";27;18;39
+"2020-03-21";"Región del Ñuble";26;15;39
+"2020-03-22";"Región del Ñuble";31;18;44
+"2020-03-23";"Región del Ñuble";36;22;51
+"2020-03-24";"Región del Ñuble";39;25;52
+"2020-03-25";"Región del Ñuble";37;24;53
+"2020-03-26";"Región del Ñuble";38;23;54
+"2020-03-27";"Región del Ñuble";32;20;44
+"2020-03-28";"Región del Ñuble";29;18;41
+"2020-03-29";"Región del Ñuble";28;18;41
+"2020-03-30";"Región del Ñuble";28;17;43
+"2020-03-31";"Región del Ñuble";26;16;39
+"2020-04-01";"Región del Ñuble";30;16;45
+"2020-04-02";"Región del Ñuble";30;17;45
+"2020-04-03";"Región del Ñuble";31;19;44
+"2020-04-04";"Región del Ñuble";28;16;39
+"2020-04-05";"Región del Ñuble";24;15;37
+"2020-04-06";"Región del Ñuble";25;15;35
+"2020-04-07";"Región del Ñuble";18;9;27
+"2020-04-08";"Región del Ñuble";19;11;31
+"2020-04-09";"Región del Ñuble";15;8;24
+"2020-04-10";"Región del Ñuble";14;6;22
+"2020-04-11";"Región del Ñuble";14;6;25
+"2020-04-12";"Región del Ñuble";16;7;27
+"2020-04-13";"Región del Ñuble";28;18;40
+"2020-04-14";"Región del Ñuble";31;20;45
+"2020-04-15";"Región del Ñuble";25;17;37
+"2020-04-16";"Región del Ñuble";21;12;31
+"2020-04-17";"Región del Ñuble";19;10;29
+"2020-04-18";"Región del Ñuble";18;10;29
+"2020-04-19";"Región del Ñuble";19;10;29
+"2020-04-20";"Región del Ñuble";16;8;25
+"2020-04-21";"Región del Ñuble";14;6;22
+"2020-04-22";"Región del Ñuble";13;5;23
+"2020-04-23";"Región del Ñuble";14;8;22
+"2020-04-24";"Región del Ñuble";15;7;25
+"2020-04-25";"Región del Ñuble";16;8;26
+"2020-04-26";"Región del Ñuble";15;8;24
+"2020-04-27";"Región del Ñuble";20;11;31
+"2020-04-28";"Región del Ñuble";16;7;25
+"2020-04-29";"Región del Ñuble";15;8;25
+"2020-04-30";"Región del Ñuble";17;9;26
+"2020-05-01";"Región del Ñuble";15;8;24
+"2020-05-02";"Región del Ñuble";13;7;23
+"2020-05-03";"Región del Ñuble";17;9;27
+"2020-05-04";"Región del Ñuble";24;14;37
+"2020-05-05";"Región del Ñuble";28;17;42
+"2020-05-06";"Región del Ñuble";24;15;36
+"2020-05-07";"Región del Ñuble";27;15;40
+"2020-05-08";"Región del Ñuble";28;17;40
+"2020-05-09";"Región del Ñuble";35;22;51
+"2020-05-10";"Región del Ñuble";44;30;59
+"2020-05-11";"Región del Ñuble";39;25;54
+"2020-05-12";"Región del Ñuble";47;33;64
+"2020-05-13";"Región del Ñuble";50;35;68
+"2020-05-14";"Región del Ñuble";59;41;79
+"2020-05-15";"Región del Ñuble";53;37;67
+"2020-05-16";"Región del Ñuble";45;27;63
+"2020-05-17";"Región del Ñuble";49;35;66
+"2020-05-18";"Región del Ñuble";52;37;73
+"2020-05-19";"Región del Ñuble";50;33;68
+"2020-05-20";"Región del Ñuble";44;29;61
+"2020-05-21";"Región del Ñuble";37;24;49
+"2020-05-22";"Región del Ñuble";41;26;57
+"2020-05-23";"Región del Ñuble";43;28;60
+"2020-05-24";"Región del Ñuble";55;39;73
+"2020-05-25";"Región del Ñuble";59;40;75
+"2020-05-26";"Región del Ñuble";62;44;78
+"2020-05-27";"Región del Ñuble";64;46;90
+"2020-05-28";"Región del Ñuble";61;44;79
+"2020-05-29";"Región del Ñuble";50;34;71
+"2020-05-30";"Región del Ñuble";60;42;80
+"2020-05-31";"Región del Ñuble";56;40;75
+"2020-06-01";"Región del Ñuble";75;55;98
+"2020-06-02";"Región del Ñuble";68;48;88
+"2020-06-03";"Región del Ñuble";89;67;113
+"2020-06-04";"Región del Ñuble";81;60;111
+"2020-06-05";"Región del Ñuble";65;47;85
+"2020-06-06";"Región del Ñuble";81;62;107
+"2020-06-07";"Región del Ñuble";84;64;104
+"2020-06-08";"Región del Ñuble";80;61;105
+"2020-06-09";"Región del Ñuble";80;57;104
+"2020-06-10";"Región del Ñuble";77;59;99
+"2020-06-11";"Región del Ñuble";74;56;97
+"2020-06-12";"Región del Ñuble";71;50;93
+"2020-06-13";"Región del Ñuble";75;54;95
+"2020-06-14";"Región del Ñuble";75;55;98
+"2020-06-15";"Región del Ñuble";96;70;124
+"2020-06-16";"Región del Ñuble";78;58;101
+"2020-06-17";"Región del Ñuble";71;52;93
+"2020-06-18";"Región del Ñuble";83;62;107
+"2020-06-19";"Región del Ñuble";67;49;89
+"2020-06-20";"Región del Ñuble";65;48;85
+"2020-06-21";"Región del Ñuble";69;51;87
+"2020-06-22";"Región del Ñuble";71;54;93
+"2020-06-23";"Región del Ñuble";61;44;81
+"2020-06-24";"Región del Ñuble";62;42;82
+"2020-06-25";"Región del Ñuble";53;38;70
+"2020-06-26";"Región del Ñuble";59;40;78
+"2020-06-27";"Región del Ñuble";62;42;86
+"2020-06-28";"Región del Ñuble";62;43;80
+"2020-06-29";"Región del Ñuble";75;56;95
+"2020-06-30";"Región del Ñuble";67;50;86
+"2020-07-01";"Región del Ñuble";84;62;107
+"2020-07-02";"Región del Ñuble";77;56;103
+"2020-07-03";"Región del Ñuble";85;65;111
+"2020-07-04";"Región del Ñuble";87;64;112
+"2020-07-05";"Región del Ñuble";93;70;116
+"2020-07-06";"Región del Ñuble";99;77;126
+"2020-07-07";"Región del Ñuble";104;79;132
+"2020-07-08";"Región del Ñuble";104;80;136
+"2020-07-09";"Región del Ñuble";101;76;128
+"2020-07-10";"Región del Ñuble";85;62;107
+"2020-07-11";"Región del Ñuble";78;58;100
+"2020-07-12";"Región del Ñuble";70;48;95
+"2020-07-13";"Región del Ñuble";62;43;88
+"2020-07-14";"Región del Ñuble";72;45;99
+"2020-07-15";"Región del Ñuble";60;37;84
+"2020-07-16";"Región del Ñuble";76;46;116
+"2020-07-17";"Región del Ñuble";102;53;169
+"2020-03-01";"Región de Arica y Parinacota";0;0;1
+"2020-03-02";"Región de Arica y Parinacota";0;0;2
+"2020-03-03";"Región de Arica y Parinacota";0;0;1
+"2020-03-04";"Región de Arica y Parinacota";0;0;2
+"2020-03-05";"Región de Arica y Parinacota";0;0;2
+"2020-03-06";"Región de Arica y Parinacota";0;0;2
+"2020-03-07";"Región de Arica y Parinacota";0;0;2
+"2020-03-08";"Región de Arica y Parinacota";0;0;2
+"2020-03-09";"Región de Arica y Parinacota";0;0;2
+"2020-03-10";"Región de Arica y Parinacota";0;0;2
+"2020-03-11";"Región de Arica y Parinacota";1;0;2
+"2020-03-12";"Región de Arica y Parinacota";1;0;2
+"2020-03-13";"Región de Arica y Parinacota";1;0;3
+"2020-03-14";"Región de Arica y Parinacota";1;0;3
+"2020-03-15";"Región de Arica y Parinacota";1;0;2
+"2020-03-16";"Región de Arica y Parinacota";1;0;3
+"2020-03-17";"Región de Arica y Parinacota";1;0;3
+"2020-03-18";"Región de Arica y Parinacota";1;0;3
+"2020-03-19";"Región de Arica y Parinacota";1;0;3
+"2020-03-20";"Región de Arica y Parinacota";1;0;4
+"2020-03-21";"Región de Arica y Parinacota";2;0;4
+"2020-03-22";"Región de Arica y Parinacota";2;0;5
+"2020-03-23";"Región de Arica y Parinacota";2;0;6
+"2020-03-24";"Región de Arica y Parinacota";3;0;7
+"2020-03-25";"Región de Arica y Parinacota";4;0;8
+"2020-03-26";"Región de Arica y Parinacota";5;1;10
+"2020-03-27";"Región de Arica y Parinacota";5;1;9
+"2020-03-28";"Región de Arica y Parinacota";5;1;10
+"2020-03-29";"Región de Arica y Parinacota";6;1;11
+"2020-03-30";"Región de Arica y Parinacota";8;3;16
+"2020-03-31";"Región de Arica y Parinacota";9;4;15
+"2020-04-01";"Región de Arica y Parinacota";11;5;19
+"2020-04-02";"Región de Arica y Parinacota";12;4;21
+"2020-04-03";"Región de Arica y Parinacota";14;7;22
+"2020-04-04";"Región de Arica y Parinacota";15;8;25
+"2020-04-05";"Región de Arica y Parinacota";16;8;26
+"2020-04-06";"Región de Arica y Parinacota";16;8;24
+"2020-04-07";"Región de Arica y Parinacota";18;10;29
+"2020-04-08";"Región de Arica y Parinacota";15;8;25
+"2020-04-09";"Región de Arica y Parinacota";15;7;25
+"2020-04-10";"Región de Arica y Parinacota";16;8;28
+"2020-04-11";"Región de Arica y Parinacota";13;6;22
+"2020-04-12";"Región de Arica y Parinacota";14;6;21
+"2020-04-13";"Región de Arica y Parinacota";17;8;27
+"2020-04-14";"Región de Arica y Parinacota";14;6;23
+"2020-04-15";"Región de Arica y Parinacota";17;7;26
+"2020-04-16";"Región de Arica y Parinacota";17;8;26
+"2020-04-17";"Región de Arica y Parinacota";18;9;29
+"2020-04-18";"Región de Arica y Parinacota";17;10;26
+"2020-04-19";"Región de Arica y Parinacota";24;12;38
+"2020-04-20";"Región de Arica y Parinacota";22;11;32
+"2020-04-21";"Región de Arica y Parinacota";22;12;34
+"2020-04-22";"Región de Arica y Parinacota";18;9;28
+"2020-04-23";"Región de Arica y Parinacota";19;10;31
+"2020-04-24";"Región de Arica y Parinacota";14;7;22
+"2020-04-25";"Región de Arica y Parinacota";11;4;20
+"2020-04-26";"Región de Arica y Parinacota";11;4;19
+"2020-04-27";"Región de Arica y Parinacota";11;4;19
+"2020-04-28";"Región de Arica y Parinacota";11;5;18
+"2020-04-29";"Región de Arica y Parinacota";13;5;22
+"2020-04-30";"Región de Arica y Parinacota";11;4;19
+"2020-05-01";"Región de Arica y Parinacota";11;5;19
+"2020-05-02";"Región de Arica y Parinacota";11;4;20
+"2020-05-03";"Región de Arica y Parinacota";11;5;20
+"2020-05-04";"Región de Arica y Parinacota";12;6;19
+"2020-05-05";"Región de Arica y Parinacota";13;6;24
+"2020-05-06";"Región de Arica y Parinacota";13;6;22
+"2020-05-07";"Región de Arica y Parinacota";14;6;24
+"2020-05-08";"Región de Arica y Parinacota";15;5;22
+"2020-05-09";"Región de Arica y Parinacota";13;6;20
+"2020-05-10";"Región de Arica y Parinacota";15;7;24
+"2020-05-11";"Región de Arica y Parinacota";20;11;30
+"2020-05-12";"Región de Arica y Parinacota";18;9;27
+"2020-05-13";"Región de Arica y Parinacota";21;13;33
+"2020-05-14";"Región de Arica y Parinacota";23;13;35
+"2020-05-15";"Región de Arica y Parinacota";23;13;35
+"2020-05-16";"Región de Arica y Parinacota";28;16;43
+"2020-05-17";"Región de Arica y Parinacota";30;17;46
+"2020-05-18";"Región de Arica y Parinacota";34;21;49
+"2020-05-19";"Región de Arica y Parinacota";36;23;51
+"2020-05-20";"Región de Arica y Parinacota";31;18;45
+"2020-05-21";"Región de Arica y Parinacota";37;24;54
+"2020-05-22";"Región de Arica y Parinacota";35;23;50
+"2020-05-23";"Región de Arica y Parinacota";37;23;55
+"2020-05-24";"Región de Arica y Parinacota";39;25;53
+"2020-05-25";"Región de Arica y Parinacota";37;22;54
+"2020-05-26";"Región de Arica y Parinacota";37;22;51
+"2020-05-27";"Región de Arica y Parinacota";42;29;57
+"2020-05-28";"Región de Arica y Parinacota";45;29;63
+"2020-05-29";"Región de Arica y Parinacota";56;37;77
+"2020-05-30";"Región de Arica y Parinacota";67;48;90
+"2020-05-31";"Región de Arica y Parinacota";59;41;80
+"2020-06-01";"Región de Arica y Parinacota";81;58;106
+"2020-06-02";"Región de Arica y Parinacota";81;57;103
+"2020-06-03";"Región de Arica y Parinacota";84;64;108
+"2020-06-04";"Región de Arica y Parinacota";67;49;88
+"2020-06-05";"Región de Arica y Parinacota";64;45;85
+"2020-06-06";"Región de Arica y Parinacota";77;54;99
+"2020-06-07";"Región de Arica y Parinacota";74;53;100
+"2020-06-08";"Región de Arica y Parinacota";65;46;87
+"2020-06-09";"Región de Arica y Parinacota";65;46;86
+"2020-06-10";"Región de Arica y Parinacota";72;53;92
+"2020-06-11";"Región de Arica y Parinacota";59;42;78
+"2020-06-12";"Región de Arica y Parinacota";68;51;86
+"2020-06-13";"Región de Arica y Parinacota";75;56;95
+"2020-06-14";"Región de Arica y Parinacota";68;51;89
+"2020-06-15";"Región de Arica y Parinacota";84;67;107
+"2020-06-16";"Región de Arica y Parinacota";60;41;78
+"2020-06-17";"Región de Arica y Parinacota";60;42;83
+"2020-06-18";"Región de Arica y Parinacota";61;42;80
+"2020-06-19";"Región de Arica y Parinacota";67;49;91
+"2020-06-20";"Región de Arica y Parinacota";67;48;89
+"2020-06-21";"Región de Arica y Parinacota";64;47;86
+"2020-06-22";"Región de Arica y Parinacota";83;63;112
+"2020-06-23";"Región de Arica y Parinacota";72;51;92
+"2020-06-24";"Región de Arica y Parinacota";63;46;82
+"2020-06-25";"Región de Arica y Parinacota";67;47;87
+"2020-06-26";"Región de Arica y Parinacota";73;54;95
+"2020-06-27";"Región de Arica y Parinacota";91;68;115
+"2020-06-28";"Región de Arica y Parinacota";95;70;122
+"2020-06-29";"Región de Arica y Parinacota";95;71;127
+"2020-06-30";"Región de Arica y Parinacota";97;74;121
+"2020-07-01";"Región de Arica y Parinacota";104;81;135
+"2020-07-02";"Región de Arica y Parinacota";92;66;122
+"2020-07-03";"Región de Arica y Parinacota";99;75;126
+"2020-07-04";"Región de Arica y Parinacota";85;62;113
+"2020-07-05";"Región de Arica y Parinacota";102;76;129
+"2020-07-06";"Región de Arica y Parinacota";112;90;140
+"2020-07-07";"Región de Arica y Parinacota";90;69;116
+"2020-07-08";"Región de Arica y Parinacota";120;93;150
+"2020-07-09";"Región de Arica y Parinacota";116;94;142
+"2020-07-10";"Región de Arica y Parinacota";152;118;189
+"2020-07-11";"Región de Arica y Parinacota";119;93;147
+"2020-07-12";"Región de Arica y Parinacota";135;97;182
+"2020-07-13";"Región de Arica y Parinacota";103;74;141
+"2020-07-14";"Región de Arica y Parinacota";76;51;112
+"2020-07-15";"Región de Arica y Parinacota";77;49;114
+"2020-07-16";"Región de Arica y Parinacota";55;31;101
+"2020-07-17";"Región de Arica y Parinacota";60;29;120
+"2020-03-01";"Región de Coquimbo";1;0;3
+"2020-03-02";"Región de Coquimbo";1;0;3
+"2020-03-03";"Región de Coquimbo";1;0;3
+"2020-03-04";"Región de Coquimbo";1;0;2
+"2020-03-05";"Región de Coquimbo";1;0;3
+"2020-03-06";"Región de Coquimbo";1;0;3
+"2020-03-07";"Región de Coquimbo";1;0;3
+"2020-03-08";"Región de Coquimbo";1;0;3
+"2020-03-09";"Región de Coquimbo";1;0;3
+"2020-03-10";"Región de Coquimbo";1;0;3
+"2020-03-11";"Región de Coquimbo";1;0;4
+"2020-03-12";"Región de Coquimbo";2;0;5
+"2020-03-13";"Región de Coquimbo";2;0;5
+"2020-03-14";"Región de Coquimbo";2;0;6
+"2020-03-15";"Región de Coquimbo";2;0;5
+"2020-03-16";"Región de Coquimbo";3;0;7
+"2020-03-17";"Región de Coquimbo";3;0;7
+"2020-03-18";"Región de Coquimbo";3;0;7
+"2020-03-19";"Región de Coquimbo";4;1;7
+"2020-03-20";"Región de Coquimbo";4;1;9
+"2020-03-21";"Región de Coquimbo";4;0;8
+"2020-03-22";"Región de Coquimbo";4;1;9
+"2020-03-23";"Región de Coquimbo";4;1;9
+"2020-03-24";"Región de Coquimbo";4;1;9
+"2020-03-25";"Región de Coquimbo";5;1;10
+"2020-03-26";"Región de Coquimbo";5;1;9
+"2020-03-27";"Región de Coquimbo";5;1;10
+"2020-03-28";"Región de Coquimbo";6;1;11
+"2020-03-29";"Región de Coquimbo";7;2;11
+"2020-03-30";"Región de Coquimbo";7;3;13
+"2020-03-31";"Región de Coquimbo";8;3;16
+"2020-04-01";"Región de Coquimbo";8;3;14
+"2020-04-02";"Región de Coquimbo";9;3;15
+"2020-04-03";"Región de Coquimbo";9;3;15
+"2020-04-04";"Región de Coquimbo";9;4;17
+"2020-04-05";"Región de Coquimbo";10;4;18
+"2020-04-06";"Región de Coquimbo";10;4;19
+"2020-04-07";"Región de Coquimbo";10;4;19
+"2020-04-08";"Región de Coquimbo";12;6;20
+"2020-04-09";"Región de Coquimbo";15;7;22
+"2020-04-10";"Región de Coquimbo";12;5;21
+"2020-04-11";"Región de Coquimbo";12;6;19
+"2020-04-12";"Región de Coquimbo";11;4;18
+"2020-04-13";"Región de Coquimbo";10;4;19
+"2020-04-14";"Región de Coquimbo";10;4;20
+"2020-04-15";"Región de Coquimbo";9;3;17
+"2020-04-16";"Región de Coquimbo";8;2;16
+"2020-04-17";"Región de Coquimbo";7;2;13
+"2020-04-18";"Región de Coquimbo";8;3;16
+"2020-04-19";"Región de Coquimbo";9;3;15
+"2020-04-20";"Región de Coquimbo";10;3;18
+"2020-04-21";"Región de Coquimbo";10;4;17
+"2020-04-22";"Región de Coquimbo";12;5;21
+"2020-04-23";"Región de Coquimbo";13;6;21
+"2020-04-24";"Región de Coquimbo";14;6;23
+"2020-04-25";"Región de Coquimbo";15;7;25
+"2020-04-26";"Región de Coquimbo";19;9;29
+"2020-04-27";"Región de Coquimbo";27;17;42
+"2020-04-28";"Región de Coquimbo";27;17;39
+"2020-04-29";"Región de Coquimbo";31;21;44
+"2020-04-30";"Región de Coquimbo";32;19;45
+"2020-05-01";"Región de Coquimbo";32;20;46
+"2020-05-02";"Región de Coquimbo";34;21;50
+"2020-05-03";"Región de Coquimbo";31;18;44
+"2020-05-04";"Región de Coquimbo";32;20;46
+"2020-05-05";"Región de Coquimbo";37;24;50
+"2020-05-06";"Región de Coquimbo";35;21;51
+"2020-05-07";"Región de Coquimbo";38;25;52
+"2020-05-08";"Región de Coquimbo";43;29;58
+"2020-05-09";"Región de Coquimbo";43;29;59
+"2020-05-10";"Región de Coquimbo";48;32;66
+"2020-05-11";"Región de Coquimbo";49;34;64
+"2020-05-12";"Región de Coquimbo";42;30;56
+"2020-05-13";"Región de Coquimbo";44;25;60
+"2020-05-14";"Región de Coquimbo";44;29;62
+"2020-05-15";"Región de Coquimbo";46;33;62
+"2020-05-16";"Región de Coquimbo";48;35;65
+"2020-05-17";"Región de Coquimbo";46;31;64
+"2020-05-18";"Región de Coquimbo";54;39;73
+"2020-05-19";"Región de Coquimbo";50;31;67
+"2020-05-20";"Región de Coquimbo";59;41;79
+"2020-05-21";"Región de Coquimbo";59;40;79
+"2020-05-22";"Región de Coquimbo";68;47;88
+"2020-05-23";"Región de Coquimbo";82;66;102
+"2020-05-24";"Región de Coquimbo";91;68;113
+"2020-05-25";"Región de Coquimbo";96;71;122
+"2020-05-26";"Región de Coquimbo";115;91;141
+"2020-05-27";"Región de Coquimbo";106;81;128
+"2020-05-28";"Región de Coquimbo";104;83;134
+"2020-05-29";"Región de Coquimbo";121;93;148
+"2020-05-30";"Región de Coquimbo";129;101;156
+"2020-05-31";"Región de Coquimbo";125;101;157
+"2020-06-01";"Región de Coquimbo";146;123;174
+"2020-06-02";"Región de Coquimbo";130;105;160
+"2020-06-03";"Región de Coquimbo";108;87;138
+"2020-06-04";"Región de Coquimbo";108;82;136
+"2020-06-05";"Región de Coquimbo";113;90;140
+"2020-06-06";"Región de Coquimbo";134;108;166
+"2020-06-07";"Región de Coquimbo";118;93;151
+"2020-06-08";"Región de Coquimbo";150;120;181
+"2020-06-09";"Región de Coquimbo";127;100;158
+"2020-06-10";"Región de Coquimbo";127;102;158
+"2020-06-11";"Región de Coquimbo";104;80;133
+"2020-06-12";"Región de Coquimbo";121;96;143
+"2020-06-13";"Región de Coquimbo";111;86;140
+"2020-06-14";"Región de Coquimbo";120;96;149
+"2020-06-15";"Región de Coquimbo";122;95;150
+"2020-06-16";"Región de Coquimbo";116;90;143
+"2020-06-17";"Región de Coquimbo";107;79;140
+"2020-06-18";"Región de Coquimbo";102;80;128
+"2020-06-19";"Región de Coquimbo";111;85;140
+"2020-06-20";"Región de Coquimbo";110;84;137
+"2020-06-21";"Región de Coquimbo";113;85;143
+"2020-06-22";"Región de Coquimbo";126;98;156
+"2020-06-23";"Región de Coquimbo";123;97;153
+"2020-06-24";"Región de Coquimbo";121;97;149
+"2020-06-25";"Región de Coquimbo";130;101;159
+"2020-06-26";"Región de Coquimbo";143;108;178
+"2020-06-27";"Región de Coquimbo";121;93;157
+"2020-06-28";"Región de Coquimbo";129;99;160
+"2020-06-29";"Región de Coquimbo";127;99;160
+"2020-06-30";"Región de Coquimbo";131;97;168
+"2020-07-01";"Región de Coquimbo";162;120;203
+"2020-07-02";"Región de Coquimbo";141;106;177
+"2020-07-03";"Región de Coquimbo";164;129;202
+"2020-07-04";"Región de Coquimbo";201;162;246
+"2020-07-05";"Región de Coquimbo";161;127;204
+"2020-07-06";"Región de Coquimbo";214;169;268
+"2020-07-07";"Región de Coquimbo";183;142;228
+"2020-07-08";"Región de Coquimbo";191;146;233
+"2020-07-09";"Región de Coquimbo";168;132;212
+"2020-07-10";"Región de Coquimbo";173;124;221
+"2020-07-11";"Región de Coquimbo";182;135;225
+"2020-07-12";"Región de Coquimbo";168;116;230
+"2020-07-13";"Región de Coquimbo";205;128;313
+"2020-07-14";"Región de Coquimbo";224;138;342
+"2020-07-15";"Región de Coquimbo";218;116;339
+"2020-07-16";"Región de Coquimbo";238;123;435
+"2020-07-17";"Región de Coquimbo";235;114;417
+"2020-03-01";"Región de Tarapacá";0;0;1
+"2020-03-02";"Región de Tarapacá";0;0;2
+"2020-03-03";"Región de Tarapacá";0;0;1
+"2020-03-04";"Región de Tarapacá";0;0;2
+"2020-03-05";"Región de Tarapacá";0;0;2
+"2020-03-06";"Región de Tarapacá";0;0;2
+"2020-03-07";"Región de Tarapacá";0;0;2
+"2020-03-08";"Región de Tarapacá";0;0;2
+"2020-03-09";"Región de Tarapacá";0;0;2
+"2020-03-10";"Región de Tarapacá";0;0;2
+"2020-03-11";"Región de Tarapacá";0;0;2
+"2020-03-12";"Región de Tarapacá";0;0;2
+"2020-03-13";"Región de Tarapacá";1;0;2
+"2020-03-14";"Región de Tarapacá";1;0;3
+"2020-03-15";"Región de Tarapacá";1;0;3
+"2020-03-16";"Región de Tarapacá";1;0;3
+"2020-03-17";"Región de Tarapacá";1;0;3
+"2020-03-18";"Región de Tarapacá";1;0;3
+"2020-03-19";"Región de Tarapacá";1;0;4
+"2020-03-20";"Región de Tarapacá";1;0;4
+"2020-03-21";"Región de Tarapacá";2;0;4
+"2020-03-22";"Región de Tarapacá";2;0;5
+"2020-03-23";"Región de Tarapacá";2;0;5
+"2020-03-24";"Región de Tarapacá";2;0;5
+"2020-03-25";"Región de Tarapacá";2;0;5
+"2020-03-26";"Región de Tarapacá";2;0;6
+"2020-03-27";"Región de Tarapacá";3;0;7
+"2020-03-28";"Región de Tarapacá";3;0;6
+"2020-03-29";"Región de Tarapacá";3;0;6
+"2020-03-30";"Región de Tarapacá";3;0;8
+"2020-03-31";"Región de Tarapacá";4;0;8
+"2020-04-01";"Región de Tarapacá";4;1;10
+"2020-04-02";"Región de Tarapacá";4;1;9
+"2020-04-03";"Región de Tarapacá";5;1;11
+"2020-04-04";"Región de Tarapacá";6;1;11
+"2020-04-05";"Región de Tarapacá";6;2;10
+"2020-04-06";"Región de Tarapacá";7;2;13
+"2020-04-07";"Región de Tarapacá";7;2;14
+"2020-04-08";"Región de Tarapacá";8;2;13
+"2020-04-09";"Región de Tarapacá";9;2;16
+"2020-04-10";"Región de Tarapacá";10;4;16
+"2020-04-11";"Región de Tarapacá";10;4;17
+"2020-04-12";"Región de Tarapacá";11;5;20
+"2020-04-13";"Región de Tarapacá";14;6;23
+"2020-04-14";"Región de Tarapacá";16;8;24
+"2020-04-15";"Región de Tarapacá";21;10;34
+"2020-04-16";"Región de Tarapacá";17;10;27
+"2020-04-17";"Región de Tarapacá";18;10;29
+"2020-04-18";"Región de Tarapacá";23;14;35
+"2020-04-19";"Región de Tarapacá";29;17;45
+"2020-04-20";"Región de Tarapacá";30;19;44
+"2020-04-21";"Región de Tarapacá";30;19;42
+"2020-04-22";"Región de Tarapacá";30;18;47
+"2020-04-23";"Región de Tarapacá";27;16;39
+"2020-04-24";"Región de Tarapacá";24;14;37
+"2020-04-25";"Región de Tarapacá";23;13;34
+"2020-04-26";"Región de Tarapacá";26;16;38
+"2020-04-27";"Región de Tarapacá";33;21;46
+"2020-04-28";"Región de Tarapacá";42;29;59
+"2020-04-29";"Región de Tarapacá";46;31;61
+"2020-04-30";"Región de Tarapacá";55;36;74
+"2020-05-01";"Región de Tarapacá";59;43;79
+"2020-05-02";"Región de Tarapacá";79;56;102
+"2020-05-03";"Región de Tarapacá";69;51;92
+"2020-05-04";"Región de Tarapacá";76;54;99
+"2020-05-05";"Región de Tarapacá";72;55;93
+"2020-05-06";"Región de Tarapacá";67;49;87
+"2020-05-07";"Región de Tarapacá";59;39;81
+"2020-05-08";"Región de Tarapacá";78;55;102
+"2020-05-09";"Región de Tarapacá";82;57;108
+"2020-05-10";"Región de Tarapacá";93;69;117
+"2020-05-11";"Región de Tarapacá";112;88;139
+"2020-05-12";"Región de Tarapacá";108;82;138
+"2020-05-13";"Región de Tarapacá";109;83;137
+"2020-05-14";"Región de Tarapacá";107;81;137
+"2020-05-15";"Región de Tarapacá";158;126;201
+"2020-05-16";"Región de Tarapacá";141;111;173
+"2020-05-17";"Región de Tarapacá";148;120;181
+"2020-05-18";"Región de Tarapacá";170;136;203
+"2020-05-19";"Región de Tarapacá";146;122;180
+"2020-05-20";"Región de Tarapacá";163;134;197
+"2020-05-21";"Región de Tarapacá";146;119;176
+"2020-05-22";"Región de Tarapacá";133;105;158
+"2020-05-23";"Región de Tarapacá";160;131;197
+"2020-05-24";"Región de Tarapacá";138;112;171
+"2020-05-25";"Región de Tarapacá";168;132;204
+"2020-05-26";"Región de Tarapacá";158;128;191
+"2020-05-27";"Región de Tarapacá";152;121;183
+"2020-05-28";"Región de Tarapacá";140;113;170
+"2020-05-29";"Región de Tarapacá";143;110;175
+"2020-05-30";"Región de Tarapacá";146;119;177
+"2020-05-31";"Región de Tarapacá";135;108;162
+"2020-06-01";"Región de Tarapacá";181;148;216
+"2020-06-02";"Región de Tarapacá";127;100;156
+"2020-06-03";"Región de Tarapacá";137;110;167
+"2020-06-04";"Región de Tarapacá";140;112;169
+"2020-06-05";"Región de Tarapacá";152;121;183
+"2020-06-06";"Región de Tarapacá";154;125;188
+"2020-06-07";"Región de Tarapacá";128;101;154
+"2020-06-08";"Región de Tarapacá";174;140;210
+"2020-06-09";"Región de Tarapacá";148;119;178
+"2020-06-10";"Región de Tarapacá";134;105;168
+"2020-06-11";"Región de Tarapacá";137;111;165
+"2020-06-12";"Región de Tarapacá";128;100;165
+"2020-06-13";"Región de Tarapacá";121;94;147
+"2020-06-14";"Región de Tarapacá";111;87;138
+"2020-06-15";"Región de Tarapacá";143;114;173
+"2020-06-16";"Región de Tarapacá";114;86;137
+"2020-06-17";"Región de Tarapacá";114;86;146
+"2020-06-18";"Región de Tarapacá";113;89;137
+"2020-06-19";"Región de Tarapacá";115;89;143
+"2020-06-20";"Región de Tarapacá";108;83;135
+"2020-06-21";"Región de Tarapacá";94;72;116
+"2020-06-22";"Región de Tarapacá";141;108;174
+"2020-06-23";"Región de Tarapacá";124;96;152
+"2020-06-24";"Región de Tarapacá";118;89;153
+"2020-06-25";"Región de Tarapacá";102;77;131
+"2020-06-26";"Región de Tarapacá";104;77;134
+"2020-06-27";"Región de Tarapacá";105;80;131
+"2020-06-28";"Región de Tarapacá";103;78;133
+"2020-06-29";"Región de Tarapacá";114;83;152
+"2020-06-30";"Región de Tarapacá";130;99;165
+"2020-07-01";"Región de Tarapacá";139;108;171
+"2020-07-02";"Región de Tarapacá";105;73;138
+"2020-07-03";"Región de Tarapacá";122;93;152
+"2020-07-04";"Región de Tarapacá";102;76;129
+"2020-07-05";"Región de Tarapacá";92;69;122
+"2020-07-06";"Región de Tarapacá";86;64;113
+"2020-07-07";"Región de Tarapacá";85;65;108
+"2020-07-08";"Región de Tarapacá";74;55;97
+"2020-07-09";"Región de Tarapacá";69;48;91
+"2020-07-10";"Región de Tarapacá";59;40;79
+"2020-07-11";"Región de Tarapacá";56;37;77
+"2020-07-12";"Región de Tarapacá";55;35;83
+"2020-07-13";"Región de Tarapacá";50;32;74
+"2020-07-14";"Región de Tarapacá";51;31;75
+"2020-07-15";"Región de Tarapacá";50;29;73
+"2020-07-16";"Región de Tarapacá";55;28;82
+"2020-07-17";"Región de Tarapacá";56;26;97
+"2020-03-01";"Región del Biobío";1;0;3
+"2020-03-02";"Región del Biobío";1;0;3
+"2020-03-03";"Región del Biobío";1;0;3
+"2020-03-04";"Región del Biobío";1;0;3
+"2020-03-05";"Región del Biobío";1;0;3
+"2020-03-06";"Región del Biobío";1;0;4
+"2020-03-07";"Región del Biobío";1;0;6
+"2020-03-08";"Región del Biobío";2;0;5
+"2020-03-09";"Región del Biobío";2;0;6
+"2020-03-10";"Región del Biobío";3;0;7
+"2020-03-11";"Región del Biobío";4;0;9
+"2020-03-12";"Región del Biobío";5;1;11
+"2020-03-13";"Región del Biobío";7;1;13
+"2020-03-14";"Región del Biobío";9;4;16
+"2020-03-15";"Región del Biobío";12;5;20
+"2020-03-16";"Región del Biobío";15;8;24
+"2020-03-17";"Región del Biobío";19;11;28
+"2020-03-18";"Región del Biobío";20;10;31
+"2020-03-19";"Región del Biobío";24;14;37
+"2020-03-20";"Región del Biobío";24;14;36
+"2020-03-21";"Región del Biobío";22;14;34
+"2020-03-22";"Región del Biobío";23;12;36
+"2020-03-23";"Región del Biobío";23;13;35
+"2020-03-24";"Región del Biobío";23;14;35
+"2020-03-25";"Región del Biobío";23;13;37
+"2020-03-26";"Región del Biobío";19;9;30
+"2020-03-27";"Región del Biobío";19;10;29
+"2020-03-28";"Región del Biobío";19;10;28
+"2020-03-29";"Región del Biobío";21;12;32
+"2020-03-30";"Región del Biobío";23;14;33
+"2020-03-31";"Región del Biobío";24;14;35
+"2020-04-01";"Región del Biobío";24;15;37
+"2020-04-02";"Región del Biobío";23;13;33
+"2020-04-03";"Región del Biobío";21;11;34
+"2020-04-04";"Región del Biobío";18;9;27
+"2020-04-05";"Región del Biobío";20;11;30
+"2020-04-06";"Región del Biobío";20;12;33
+"2020-04-07";"Región del Biobío";22;12;33
+"2020-04-08";"Región del Biobío";25;16;38
+"2020-04-09";"Región del Biobío";26;15;38
+"2020-04-10";"Región del Biobío";28;18;43
+"2020-04-11";"Región del Biobío";29;16;45
+"2020-04-12";"Región del Biobío";30;19;42
+"2020-04-13";"Región del Biobío";43;30;62
+"2020-04-14";"Región del Biobío";46;30;63
+"2020-04-15";"Región del Biobío";44;31;59
+"2020-04-16";"Región del Biobío";52;36;69
+"2020-04-17";"Región del Biobío";48;33;63
+"2020-04-18";"Región del Biobío";49;33;67
+"2020-04-19";"Región del Biobío";55;39;75
+"2020-04-20";"Región del Biobío";82;62;106
+"2020-04-21";"Región del Biobío";67;48;95
+"2020-04-22";"Región del Biobío";53;36;70
+"2020-04-23";"Región del Biobío";37;24;50
+"2020-04-24";"Región del Biobío";31;19;44
+"2020-04-25";"Región del Biobío";34;22;46
+"2020-04-26";"Región del Biobío";30;19;45
+"2020-04-27";"Región del Biobío";39;26;55
+"2020-04-28";"Región del Biobío";39;24;55
+"2020-04-29";"Región del Biobío";45;31;62
+"2020-04-30";"Región del Biobío";40;27;55
+"2020-05-01";"Región del Biobío";41;27;56
+"2020-05-02";"Región del Biobío";47;33;65
+"2020-05-03";"Región del Biobío";51;35;72
+"2020-05-04";"Región del Biobío";78;58;99
+"2020-05-05";"Región del Biobío";88;68;110
+"2020-05-06";"Región del Biobío";77;56;98
+"2020-05-07";"Región del Biobío";85;59;109
+"2020-05-08";"Región del Biobío";95;75;120
+"2020-05-09";"Región del Biobío";87;68;109
+"2020-05-10";"Región del Biobío";94;73;115
+"2020-05-11";"Región del Biobío";103;80;130
+"2020-05-12";"Región del Biobío";106;82;129
+"2020-05-13";"Región del Biobío";94;73;122
+"2020-05-14";"Región del Biobío";94;71;122
+"2020-05-15";"Región del Biobío";106;83;132
+"2020-05-16";"Región del Biobío";100;77;124
+"2020-05-17";"Región del Biobío";121;94;148
+"2020-05-18";"Región del Biobío";151;119;178
+"2020-05-19";"Región del Biobío";136;111;166
+"2020-05-20";"Región del Biobío";154;125;187
+"2020-05-21";"Región del Biobío";156;129;193
+"2020-05-22";"Región del Biobío";161;127;195
+"2020-05-23";"Región del Biobío";172;141;204
+"2020-05-24";"Región del Biobío";229;190;269
+"2020-05-25";"Región del Biobío";254;214;301
+"2020-05-26";"Región del Biobío";218;187;258
+"2020-05-27";"Región del Biobío";216;177;259
+"2020-05-28";"Región del Biobío";199;166;233
+"2020-05-29";"Región del Biobío";202;169;238
+"2020-05-30";"Región del Biobío";203;168;240
+"2020-05-31";"Región del Biobío";205;171;244
+"2020-06-01";"Región del Biobío";242;200;288
+"2020-06-02";"Región del Biobío";220;183;262
+"2020-06-03";"Región del Biobío";198;164;236
+"2020-06-04";"Región del Biobío";192;156;233
+"2020-06-05";"Región del Biobío";210;175;246
+"2020-06-06";"Región del Biobío";250;214;289
+"2020-06-07";"Región del Biobío";270;229;317
+"2020-06-08";"Región del Biobío";333;286;382
+"2020-06-09";"Región del Biobío";313;268;355
+"2020-06-10";"Región del Biobío";324;275;375
+"2020-06-11";"Región del Biobío";297;255;343
+"2020-06-12";"Región del Biobío";322;280;363
+"2020-06-13";"Región del Biobío";333;288;388
+"2020-06-14";"Región del Biobío";372;319;433
+"2020-06-15";"Región del Biobío";492;435;544
+"2020-06-16";"Región del Biobío";404;353;460
+"2020-06-17";"Región del Biobío";382;333;432
+"2020-06-18";"Región del Biobío";359;314;412
+"2020-06-19";"Región del Biobío";359;313;416
+"2020-06-20";"Región del Biobío";446;400;495
+"2020-06-21";"Región del Biobío";407;350;465
+"2020-06-22";"Región del Biobío";424;360;499
+"2020-06-23";"Región del Biobío";403;339;474
+"2020-06-24";"Región del Biobío";384;328;445
+"2020-06-25";"Región del Biobío";373;311;426
+"2020-06-26";"Región del Biobío";358;301;432
+"2020-06-27";"Región del Biobío";318;267;377
+"2020-06-28";"Región del Biobío";323;276;389
+"2020-06-29";"Región del Biobío";361;304;426
+"2020-06-30";"Región del Biobío";316;270;368
+"2020-07-01";"Región del Biobío";353;303;406
+"2020-07-02";"Región del Biobío";281;236;328
+"2020-07-03";"Región del Biobío";246;202;299
+"2020-07-04";"Región del Biobío";251;205;307
+"2020-07-05";"Región del Biobío";277;234;321
+"2020-07-06";"Región del Biobío";265;218;324
+"2020-07-07";"Región del Biobío";257;216;303
+"2020-07-08";"Región del Biobío";238;202;273
+"2020-07-09";"Región del Biobío";218;175;255
+"2020-07-10";"Región del Biobío";209;175;243
+"2020-07-11";"Región del Biobío";208;174;256
+"2020-07-12";"Región del Biobío";229;185;276
+"2020-07-13";"Región del Biobío";201;165;244
+"2020-07-14";"Región del Biobío";172;132;214
+"2020-07-15";"Región del Biobío";155;117;198
+"2020-07-16";"Región del Biobío";146;99;198
+"2020-07-17";"Región del Biobío";140;84;215
+"2020-03-01";"Región del Maule";1;0;3
+"2020-03-02";"Región del Maule";1;0;4
+"2020-03-03";"Región del Maule";2;0;4
+"2020-03-04";"Región del Maule";2;0;4
+"2020-03-05";"Región del Maule";2;0;5
+"2020-03-06";"Región del Maule";2;0;5
+"2020-03-07";"Región del Maule";2;0;6
+"2020-03-08";"Región del Maule";2;0;5
+"2020-03-09";"Región del Maule";2;0;4
+"2020-03-10";"Región del Maule";2;0;4
+"2020-03-11";"Región del Maule";2;0;5
+"2020-03-12";"Región del Maule";2;0;5
+"2020-03-13";"Región del Maule";2;0;5
+"2020-03-14";"Región del Maule";2;0;7
+"2020-03-15";"Región del Maule";2;0;7
+"2020-03-16";"Región del Maule";2;0;6
+"2020-03-17";"Región del Maule";2;0;6
+"2020-03-18";"Región del Maule";3;0;6
+"2020-03-19";"Región del Maule";3;0;7
+"2020-03-20";"Región del Maule";3;0;7
+"2020-03-21";"Región del Maule";3;0;7
+"2020-03-22";"Región del Maule";4;0;9
+"2020-03-23";"Región del Maule";5;1;10
+"2020-03-24";"Región del Maule";6;2;12
+"2020-03-25";"Región del Maule";6;2;12
+"2020-03-26";"Región del Maule";6;2;12
+"2020-03-27";"Región del Maule";6;2;11
+"2020-03-28";"Región del Maule";6;1;11
+"2020-03-29";"Región del Maule";6;2;13
+"2020-03-30";"Región del Maule";7;2;13
+"2020-03-31";"Región del Maule";8;2;15
+"2020-04-01";"Región del Maule";8;3;15
+"2020-04-02";"Región del Maule";8;3;16
+"2020-04-03";"Región del Maule";9;3;16
+"2020-04-04";"Región del Maule";9;3;15
+"2020-04-05";"Región del Maule";11;5;18
+"2020-04-06";"Región del Maule";16;8;24
+"2020-04-07";"Región del Maule";27;15;39
+"2020-04-08";"Región del Maule";31;19;46
+"2020-04-09";"Región del Maule";23;13;35
+"2020-04-10";"Región del Maule";22;13;35
+"2020-04-11";"Región del Maule";26;14;37
+"2020-04-12";"Región del Maule";32;21;44
+"2020-04-13";"Región del Maule";45;31;61
+"2020-04-14";"Región del Maule";54;40;71
+"2020-04-15";"Región del Maule";63;45;83
+"2020-04-16";"Región del Maule";66;51;84
+"2020-04-17";"Región del Maule";76;54;94
+"2020-04-18";"Región del Maule";72;55;94
+"2020-04-19";"Región del Maule";52;36;68
+"2020-04-20";"Región del Maule";46;29;65
+"2020-04-21";"Región del Maule";38;25;58
+"2020-04-22";"Región del Maule";39;25;56
+"2020-04-23";"Región del Maule";28;16;40
+"2020-04-24";"Región del Maule";30;18;43
+"2020-04-25";"Región del Maule";37;25;51
+"2020-04-26";"Región del Maule";33;21;47
+"2020-04-27";"Región del Maule";27;15;40
+"2020-04-28";"Región del Maule";24;13;37
+"2020-04-29";"Región del Maule";26;13;39
+"2020-04-30";"Región del Maule";28;17;42
+"2020-05-01";"Región del Maule";27;16;40
+"2020-05-02";"Región del Maule";27;15;38
+"2020-05-03";"Región del Maule";26;16;39
+"2020-05-04";"Región del Maule";29;17;40
+"2020-05-05";"Región del Maule";34;22;47
+"2020-05-06";"Región del Maule";33;19;47
+"2020-05-07";"Región del Maule";33;21;47
+"2020-05-08";"Región del Maule";38;25;53
+"2020-05-09";"Región del Maule";47;33;62
+"2020-05-10";"Región del Maule";57;41;73
+"2020-05-11";"Región del Maule";58;40;75
+"2020-05-12";"Región del Maule";60;44;80
+"2020-05-13";"Región del Maule";68;51;86
+"2020-05-14";"Región del Maule";72;52;91
+"2020-05-15";"Región del Maule";71;53;92
+"2020-05-16";"Región del Maule";83;62;106
+"2020-05-17";"Región del Maule";112;90;136
+"2020-05-18";"Región del Maule";126;98;156
+"2020-05-19";"Región del Maule";125;99;155
+"2020-05-20";"Región del Maule";129;107;154
+"2020-05-21";"Región del Maule";138;112;164
+"2020-05-22";"Región del Maule";150;124;181
+"2020-05-23";"Región del Maule";165;130;194
+"2020-05-24";"Región del Maule";174;145;207
+"2020-05-25";"Región del Maule";206;164;241
+"2020-05-26";"Región del Maule";173;143;204
+"2020-05-27";"Región del Maule";181;143;216
+"2020-05-28";"Región del Maule";163;133;195
+"2020-05-29";"Región del Maule";169;137;197
+"2020-05-30";"Región del Maule";162;133;197
+"2020-05-31";"Región del Maule";167;135;197
+"2020-06-01";"Región del Maule";245;206;287
+"2020-06-02";"Región del Maule";248;204;292
+"2020-06-03";"Región del Maule";211;183;242
+"2020-06-04";"Región del Maule";201;165;241
+"2020-06-05";"Región del Maule";222;179;254
+"2020-06-06";"Región del Maule";230;194;267
+"2020-06-07";"Región del Maule";245;208;282
+"2020-06-08";"Región del Maule";295;252;345
+"2020-06-09";"Región del Maule";271;232;310
+"2020-06-10";"Región del Maule";266;226;305
+"2020-06-11";"Región del Maule";215;180;253
+"2020-06-12";"Región del Maule";216;179;253
+"2020-06-13";"Región del Maule";216;178;252
+"2020-06-14";"Región del Maule";226;193;263
+"2020-06-15";"Región del Maule";260;225;293
+"2020-06-16";"Región del Maule";278;237;328
+"2020-06-17";"Región del Maule";255;212;292
+"2020-06-18";"Región del Maule";222;183;259
+"2020-06-19";"Región del Maule";227;190;263
+"2020-06-20";"Región del Maule";245;206;288
+"2020-06-21";"Región del Maule";249;209;296
+"2020-06-22";"Región del Maule";241;192;288
+"2020-06-23";"Región del Maule";247;212;293
+"2020-06-24";"Región del Maule";235;192;278
+"2020-06-25";"Región del Maule";207;163;251
+"2020-06-26";"Región del Maule";213;180;245
+"2020-06-27";"Región del Maule";224;189;269
+"2020-06-28";"Región del Maule";228;188;274
+"2020-06-29";"Región del Maule";230;189;275
+"2020-06-30";"Región del Maule";273;211;329
+"2020-07-01";"Región del Maule";295;245;357
+"2020-07-02";"Región del Maule";237;195;279
+"2020-07-03";"Región del Maule";220;180;271
+"2020-07-04";"Región del Maule";217;176;271
+"2020-07-05";"Región del Maule";182;146;213
+"2020-07-06";"Región del Maule";207;168;243
+"2020-07-07";"Región del Maule";190;159;236
+"2020-07-08";"Región del Maule";190;153;230
+"2020-07-09";"Región del Maule";180;145;220
+"2020-07-10";"Región del Maule";167;137;201
+"2020-07-11";"Región del Maule";170;133;214
+"2020-07-12";"Región del Maule";171;130;263
+"2020-07-13";"Región del Maule";169;120;281
+"2020-07-14";"Región del Maule";133;91;238
+"2020-07-15";"Región del Maule";119;75;197
+"2020-07-16";"Región del Maule";128;76;243
+"2020-07-17";"Región del Maule";128;63;207
+"2020-03-01";"Región de Valparaíso";1;0;3
+"2020-03-02";"Región de Valparaíso";1;0;3
+"2020-03-03";"Región de Valparaíso";1;0;3
+"2020-03-04";"Región de Valparaíso";1;0;3
+"2020-03-05";"Región de Valparaíso";1;0;3
+"2020-03-06";"Región de Valparaíso";1;0;4
+"2020-03-07";"Región de Valparaíso";1;0;4
+"2020-03-08";"Región de Valparaíso";2;0;5
+"2020-03-09";"Región de Valparaíso";2;0;4
+"2020-03-10";"Región de Valparaíso";2;0;5
+"2020-03-11";"Región de Valparaíso";3;0;6
+"2020-03-12";"Región de Valparaíso";3;0;7
+"2020-03-13";"Región de Valparaíso";4;0;8
+"2020-03-14";"Región de Valparaíso";5;1;10
+"2020-03-15";"Región de Valparaíso";6;1;11
+"2020-03-16";"Región de Valparaíso";7;2;14
+"2020-03-17";"Región de Valparaíso";10;4;17
+"2020-03-18";"Región de Valparaíso";13;7;23
+"2020-03-19";"Región de Valparaíso";15;7;23
+"2020-03-20";"Región de Valparaíso";16;9;25
+"2020-03-21";"Región de Valparaíso";16;9;26
+"2020-03-22";"Región de Valparaíso";17;10;27
+"2020-03-23";"Región de Valparaíso";21;11;32
+"2020-03-24";"Región de Valparaíso";18;10;28
+"2020-03-25";"Región de Valparaíso";18;10;28
+"2020-03-26";"Región de Valparaíso";18;9;28
+"2020-03-27";"Región de Valparaíso";20;10;33
+"2020-03-28";"Región de Valparaíso";21;13;31
+"2020-03-29";"Región de Valparaíso";23;13;35
+"2020-03-30";"Región de Valparaíso";33;21;51
+"2020-03-31";"Región de Valparaíso";33;21;46
+"2020-04-01";"Región de Valparaíso";41;28;57
+"2020-04-02";"Región de Valparaíso";42;29;60
+"2020-04-03";"Región de Valparaíso";46;31;64
+"2020-04-04";"Región de Valparaíso";48;32;65
+"2020-04-05";"Región de Valparaíso";53;32;74
+"2020-04-06";"Región de Valparaíso";54;38;73
+"2020-04-07";"Región de Valparaíso";48;32;65
+"2020-04-08";"Región de Valparaíso";41;28;58
+"2020-04-09";"Región de Valparaíso";40;25;54
+"2020-04-10";"Región de Valparaíso";42;29;59
+"2020-04-11";"Región de Valparaíso";44;29;60
+"2020-04-12";"Región de Valparaíso";56;40;73
+"2020-04-13";"Región de Valparaíso";78;59;100
+"2020-04-14";"Región de Valparaíso";80;55;101
+"2020-04-15";"Región de Valparaíso";83;61;111
+"2020-04-16";"Región de Valparaíso";78;58;105
+"2020-04-17";"Región de Valparaíso";67;47;89
+"2020-04-18";"Región de Valparaíso";51;37;67
+"2020-04-19";"Región de Valparaíso";46;32;62
+"2020-04-20";"Región de Valparaíso";85;65;108
+"2020-04-21";"Región de Valparaíso";79;58;101
+"2020-04-22";"Región de Valparaíso";64;48;84
+"2020-04-23";"Región de Valparaíso";68;48;89
+"2020-04-24";"Región de Valparaíso";75;53;101
+"2020-04-25";"Región de Valparaíso";64;46;85
+"2020-04-26";"Región de Valparaíso";66;50;86
+"2020-04-27";"Región de Valparaíso";88;68;110
+"2020-04-28";"Región de Valparaíso";100;77;125
+"2020-04-29";"Región de Valparaíso";116;89;146
+"2020-04-30";"Región de Valparaíso";126;98;154
+"2020-05-01";"Región de Valparaíso";132;102;167
+"2020-05-02";"Región de Valparaíso";134;106;166
+"2020-05-03";"Región de Valparaíso";135;105;162
+"2020-05-04";"Región de Valparaíso";175;145;205
+"2020-05-05";"Región de Valparaíso";166;136;197
+"2020-05-06";"Región de Valparaíso";136;111;166
+"2020-05-07";"Región de Valparaíso";153;119;188
+"2020-05-08";"Región de Valparaíso";169;138;205
+"2020-05-09";"Región de Valparaíso";170;138;208
+"2020-05-10";"Región de Valparaíso";219;180;259
+"2020-05-11";"Región de Valparaíso";244;205;282
+"2020-05-12";"Región de Valparaíso";229;190;276
+"2020-05-13";"Región de Valparaíso";228;195;273
+"2020-05-14";"Región de Valparaíso";216;181;256
+"2020-05-15";"Región de Valparaíso";259;214;312
+"2020-05-16";"Región de Valparaíso";249;212;291
+"2020-05-17";"Región de Valparaíso";236;198;276
+"2020-05-18";"Región de Valparaíso";264;222;312
+"2020-05-19";"Región de Valparaíso";232;194;275
+"2020-05-20";"Región de Valparaíso";290;247;337
+"2020-05-21";"Región de Valparaíso";256;210;302
+"2020-05-22";"Región de Valparaíso";288;251;332
+"2020-05-23";"Región de Valparaíso";353;306;400
+"2020-05-24";"Región de Valparaíso";335;282;393
+"2020-05-25";"Región de Valparaíso";415;364;474
+"2020-05-26";"Región de Valparaíso";351;309;402
+"2020-05-27";"Región de Valparaíso";360;307;415
+"2020-05-28";"Región de Valparaíso";324;278;368
+"2020-05-29";"Región de Valparaíso";337;294;383
+"2020-05-30";"Región de Valparaíso";349;304;388
+"2020-05-31";"Región de Valparaíso";377;332;430
+"2020-06-01";"Región de Valparaíso";544;478;610
+"2020-06-02";"Región de Valparaíso";432;373;490
+"2020-06-03";"Región de Valparaíso";476;424;542
+"2020-06-04";"Región de Valparaíso";474;421;531
+"2020-06-05";"Región de Valparaíso";500;439;566
+"2020-06-06";"Región de Valparaíso";492;431;562
+"2020-06-07";"Región de Valparaíso";473;415;526
+"2020-06-08";"Región de Valparaíso";571;516;633
+"2020-06-09";"Región de Valparaíso";451;391;519
+"2020-06-10";"Región de Valparaíso";435;379;486
+"2020-06-11";"Región de Valparaíso";404;354;463
+"2020-06-12";"Región de Valparaíso";465;414;511
+"2020-06-13";"Región de Valparaíso";479;418;542
+"2020-06-14";"Región de Valparaíso";428;381;476
+"2020-06-15";"Región de Valparaíso";554;491;614
+"2020-06-16";"Región de Valparaíso";455;402;510
+"2020-06-17";"Región de Valparaíso";458;411;516
+"2020-06-18";"Región de Valparaíso";462;414;520
+"2020-06-19";"Región de Valparaíso";422;370;479
+"2020-06-20";"Región de Valparaíso";468;410;528
+"2020-06-21";"Región de Valparaíso";439;381;510
+"2020-06-22";"Región de Valparaíso";574;511;654
+"2020-06-23";"Región de Valparaíso";518;454;594
+"2020-06-24";"Región de Valparaíso";455;384;539
+"2020-06-25";"Región de Valparaíso";436;362;504
+"2020-06-26";"Región de Valparaíso";388;327;457
+"2020-06-27";"Región de Valparaíso";364;306;430
+"2020-06-28";"Región de Valparaíso";416;345;505
+"2020-06-29";"Región de Valparaíso";471;402;549
+"2020-06-30";"Región de Valparaíso";504;420;592
+"2020-07-01";"Región de Valparaíso";519;438;622
+"2020-07-02";"Región de Valparaíso";471;393;558
+"2020-07-03";"Región de Valparaíso";429;361;509
+"2020-07-04";"Región de Valparaíso";426;360;510
+"2020-07-05";"Región de Valparaíso";382;334;441
+"2020-07-06";"Región de Valparaíso";413;353;471
+"2020-07-07";"Región de Valparaíso";342;287;389
+"2020-07-08";"Región de Valparaíso";315;270;368
+"2020-07-09";"Región de Valparaíso";305;250;352
+"2020-07-10";"Región de Valparaíso";331;288;380
+"2020-07-11";"Región de Valparaíso";261;213;308
+"2020-07-12";"Región de Valparaíso";261;204;318
+"2020-07-13";"Región de Valparaíso";272;216;347
+"2020-07-14";"Región de Valparaíso";241;182;318
+"2020-07-15";"Región de Valparaíso";236;170;315
+"2020-07-16";"Región de Valparaíso";225;151;306
+"2020-07-17";"Región de Valparaíso";228;143;317
+"2020-03-01";"Región del Libertador General Bernardo OHiggins";0;0;2
+"2020-03-02";"Región del Libertador General Bernardo OHiggins";0;0;1
+"2020-03-03";"Región del Libertador General Bernardo OHiggins";0;0;2
+"2020-03-04";"Región del Libertador General Bernardo OHiggins";0;0;1
+"2020-03-05";"Región del Libertador General Bernardo OHiggins";0;0;2
+"2020-03-06";"Región del Libertador General Bernardo OHiggins";0;0;2
+"2020-03-07";"Región del Libertador General Bernardo OHiggins";0;0;2
+"2020-03-08";"Región del Libertador General Bernardo OHiggins";0;0;2
+"2020-03-09";"Región del Libertador General Bernardo OHiggins";0;0;2
+"2020-03-10";"Región del Libertador General Bernardo OHiggins";1;0;3
+"2020-03-11";"Región del Libertador General Bernardo OHiggins";1;0;3
+"2020-03-12";"Región del Libertador General Bernardo OHiggins";1;0;3
+"2020-03-13";"Región del Libertador General Bernardo OHiggins";1;0;4
+"2020-03-14";"Región del Libertador General Bernardo OHiggins";2;0;4
+"2020-03-15";"Región del Libertador General Bernardo OHiggins";2;0;5
+"2020-03-16";"Región del Libertador General Bernardo OHiggins";2;0;6
+"2020-03-17";"Región del Libertador General Bernardo OHiggins";2;0;6
+"2020-03-18";"Región del Libertador General Bernardo OHiggins";2;0;6
+"2020-03-19";"Región del Libertador General Bernardo OHiggins";2;0;6
+"2020-03-20";"Región del Libertador General Bernardo OHiggins";3;0;6
+"2020-03-21";"Región del Libertador General Bernardo OHiggins";4;0;8
+"2020-03-22";"Región del Libertador General Bernardo OHiggins";4;0;8
+"2020-03-23";"Región del Libertador General Bernardo OHiggins";4;0;8
+"2020-03-24";"Región del Libertador General Bernardo OHiggins";3;0;8
+"2020-03-25";"Región del Libertador General Bernardo OHiggins";3;0;6
+"2020-03-26";"Región del Libertador General Bernardo OHiggins";3;0;6
+"2020-03-27";"Región del Libertador General Bernardo OHiggins";2;0;6
+"2020-03-28";"Región del Libertador General Bernardo OHiggins";2;0;6
+"2020-03-29";"Región del Libertador General Bernardo OHiggins";2;0;5
+"2020-03-30";"Región del Libertador General Bernardo OHiggins";2;0;6
+"2020-03-31";"Región del Libertador General Bernardo OHiggins";3;0;6
+"2020-04-01";"Región del Libertador General Bernardo OHiggins";3;0;7
+"2020-04-02";"Región del Libertador General Bernardo OHiggins";3;0;7
+"2020-04-03";"Región del Libertador General Bernardo OHiggins";3;0;7
+"2020-04-04";"Región del Libertador General Bernardo OHiggins";3;0;7
+"2020-04-05";"Región del Libertador General Bernardo OHiggins";3;0;7
+"2020-04-06";"Región del Libertador General Bernardo OHiggins";3;0;7
+"2020-04-07";"Región del Libertador General Bernardo OHiggins";4;1;8
+"2020-04-08";"Región del Libertador General Bernardo OHiggins";4;1;8
+"2020-04-09";"Región del Libertador General Bernardo OHiggins";6;2;12
+"2020-04-10";"Región del Libertador General Bernardo OHiggins";7;2;14
+"2020-04-11";"Región del Libertador General Bernardo OHiggins";7;1;14
+"2020-04-12";"Región del Libertador General Bernardo OHiggins";7;2;13
+"2020-04-13";"Región del Libertador General Bernardo OHiggins";7;2;14
+"2020-04-14";"Región del Libertador General Bernardo OHiggins";8;3;15
+"2020-04-15";"Región del Libertador General Bernardo OHiggins";8;3;15
+"2020-04-16";"Región del Libertador General Bernardo OHiggins";8;3;17
+"2020-04-17";"Región del Libertador General Bernardo OHiggins";9;3;16
+"2020-04-18";"Región del Libertador General Bernardo OHiggins";9;3;17
+"2020-04-19";"Región del Libertador General Bernardo OHiggins";9;3;16
+"2020-04-20";"Región del Libertador General Bernardo OHiggins";13;6;23
+"2020-04-21";"Región del Libertador General Bernardo OHiggins";14;7;22
+"2020-04-22";"Región del Libertador General Bernardo OHiggins";17;8;26
+"2020-04-23";"Región del Libertador General Bernardo OHiggins";24;14;34
+"2020-04-24";"Región del Libertador General Bernardo OHiggins";47;31;65
+"2020-04-25";"Región del Libertador General Bernardo OHiggins";29;17;41
+"2020-04-26";"Región del Libertador General Bernardo OHiggins";32;21;47
+"2020-04-27";"Región del Libertador General Bernardo OHiggins";29;18;43
+"2020-04-28";"Región del Libertador General Bernardo OHiggins";36;23;53
+"2020-04-29";"Región del Libertador General Bernardo OHiggins";33;22;50
+"2020-04-30";"Región del Libertador General Bernardo OHiggins";32;19;45
+"2020-05-01";"Región del Libertador General Bernardo OHiggins";33;20;45
+"2020-05-02";"Región del Libertador General Bernardo OHiggins";41;23;56
+"2020-05-03";"Región del Libertador General Bernardo OHiggins";71;51;91
+"2020-05-04";"Región del Libertador General Bernardo OHiggins";53;39;72
+"2020-05-05";"Región del Libertador General Bernardo OHiggins";62;44;82
+"2020-05-06";"Región del Libertador General Bernardo OHiggins";53;38;71
+"2020-05-07";"Región del Libertador General Bernardo OHiggins";54;38;74
+"2020-05-08";"Región del Libertador General Bernardo OHiggins";60;42;79
+"2020-05-09";"Región del Libertador General Bernardo OHiggins";62;45;81
+"2020-05-10";"Región del Libertador General Bernardo OHiggins";86;66;105
+"2020-05-11";"Región del Libertador General Bernardo OHiggins";75;54;97
+"2020-05-12";"Región del Libertador General Bernardo OHiggins";74;52;96
+"2020-05-13";"Región del Libertador General Bernardo OHiggins";76;55;95
+"2020-05-14";"Región del Libertador General Bernardo OHiggins";82;59;107
+"2020-05-15";"Región del Libertador General Bernardo OHiggins";77;53;100
+"2020-05-16";"Región del Libertador General Bernardo OHiggins";82;59;110
+"2020-05-17";"Región del Libertador General Bernardo OHiggins";79;58;103
+"2020-05-18";"Región del Libertador General Bernardo OHiggins";101;76;125
+"2020-05-19";"Región del Libertador General Bernardo OHiggins";85;64;106
+"2020-05-20";"Región del Libertador General Bernardo OHiggins";94;70;120
+"2020-05-21";"Región del Libertador General Bernardo OHiggins";104;79;130
+"2020-05-22";"Región del Libertador General Bernardo OHiggins";104;83;126
+"2020-05-23";"Región del Libertador General Bernardo OHiggins";96;72;119
+"2020-05-24";"Región del Libertador General Bernardo OHiggins";102;79;125
+"2020-05-25";"Región del Libertador General Bernardo OHiggins";135;109;166
+"2020-05-26";"Región del Libertador General Bernardo OHiggins";107;83;132
+"2020-05-27";"Región del Libertador General Bernardo OHiggins";108;84;132
+"2020-05-28";"Región del Libertador General Bernardo OHiggins";102;80;127
+"2020-05-29";"Región del Libertador General Bernardo OHiggins";111;83;143
+"2020-05-30";"Región del Libertador General Bernardo OHiggins";109;87;144
+"2020-05-31";"Región del Libertador General Bernardo OHiggins";111;83;136
+"2020-06-01";"Región del Libertador General Bernardo OHiggins";203;164;244
+"2020-06-02";"Región del Libertador General Bernardo OHiggins";170;138;207
+"2020-06-03";"Región del Libertador General Bernardo OHiggins";149;118;182
+"2020-06-04";"Región del Libertador General Bernardo OHiggins";138;107;171
+"2020-06-05";"Región del Libertador General Bernardo OHiggins";164;130;197
+"2020-06-06";"Región del Libertador General Bernardo OHiggins";148;119;182
+"2020-06-07";"Región del Libertador General Bernardo OHiggins";163;129;194
+"2020-06-08";"Región del Libertador General Bernardo OHiggins";211;178;250
+"2020-06-09";"Región del Libertador General Bernardo OHiggins";193;158;230
+"2020-06-10";"Región del Libertador General Bernardo OHiggins";202;171;236
+"2020-06-11";"Región del Libertador General Bernardo OHiggins";210;175;239
+"2020-06-12";"Región del Libertador General Bernardo OHiggins";233;196;273
+"2020-06-13";"Región del Libertador General Bernardo OHiggins";263;222;304
+"2020-06-14";"Región del Libertador General Bernardo OHiggins";270;231;310
+"2020-06-15";"Región del Libertador General Bernardo OHiggins";353;305;404
+"2020-06-16";"Región del Libertador General Bernardo OHiggins";315;271;364
+"2020-06-17";"Región del Libertador General Bernardo OHiggins";252;215;287
+"2020-06-18";"Región del Libertador General Bernardo OHiggins";290;250;334
+"2020-06-19";"Región del Libertador General Bernardo OHiggins";315;275;362
+"2020-06-20";"Región del Libertador General Bernardo OHiggins";386;342;441
+"2020-06-21";"Región del Libertador General Bernardo OHiggins";349;292;398
+"2020-06-22";"Región del Libertador General Bernardo OHiggins";402;346;459
+"2020-06-23";"Región del Libertador General Bernardo OHiggins";373;315;426
+"2020-06-24";"Región del Libertador General Bernardo OHiggins";366;316;426
+"2020-06-25";"Región del Libertador General Bernardo OHiggins";330;284;383
+"2020-06-26";"Región del Libertador General Bernardo OHiggins";310;267;367
+"2020-06-27";"Región del Libertador General Bernardo OHiggins";294;250;342
+"2020-06-28";"Región del Libertador General Bernardo OHiggins";272;229;327
+"2020-06-29";"Región del Libertador General Bernardo OHiggins";299;255;369
+"2020-06-30";"Región del Libertador General Bernardo OHiggins";333;281;392
+"2020-07-01";"Región del Libertador General Bernardo OHiggins";332;282;402
+"2020-07-02";"Región del Libertador General Bernardo OHiggins";260;221;321
+"2020-07-03";"Región del Libertador General Bernardo OHiggins";289;240;343
+"2020-07-04";"Región del Libertador General Bernardo OHiggins";246;201;296
+"2020-07-05";"Región del Libertador General Bernardo OHiggins";230;189;273
+"2020-07-06";"Región del Libertador General Bernardo OHiggins";249;208;290
+"2020-07-07";"Región del Libertador General Bernardo OHiggins";209;171;254
+"2020-07-08";"Región del Libertador General Bernardo OHiggins";193;152;235
+"2020-07-09";"Región del Libertador General Bernardo OHiggins";199;154;242
+"2020-07-10";"Región del Libertador General Bernardo OHiggins";181;144;215
+"2020-07-11";"Región del Libertador General Bernardo OHiggins";192;150;236
+"2020-07-12";"Región del Libertador General Bernardo OHiggins";186;142;236
+"2020-07-13";"Región del Libertador General Bernardo OHiggins";174;132;216
+"2020-07-14";"Región del Libertador General Bernardo OHiggins";148;109;197
+"2020-07-15";"Región del Libertador General Bernardo OHiggins";150;107;209
+"2020-07-16";"Región del Libertador General Bernardo OHiggins";182;123;249
+"2020-07-17";"Región del Libertador General Bernardo OHiggins";210;120;334
+"2020-03-01";"Región de Los Ríos";0;0;2
+"2020-03-02";"Región de Los Ríos";0;0;2
+"2020-03-03";"Región de Los Ríos";0;0;2
+"2020-03-04";"Región de Los Ríos";0;0;2
+"2020-03-05";"Región de Los Ríos";0;0;2
+"2020-03-06";"Región de Los Ríos";0;0;2
+"2020-03-07";"Región de Los Ríos";0;0;2
+"2020-03-08";"Región de Los Ríos";0;0;2
+"2020-03-09";"Región de Los Ríos";0;0;2
+"2020-03-10";"Región de Los Ríos";1;0;3
+"2020-03-11";"Región de Los Ríos";0;0;2
+"2020-03-12";"Región de Los Ríos";1;0;2
+"2020-03-13";"Región de Los Ríos";1;0;3
+"2020-03-14";"Región de Los Ríos";1;0;3
+"2020-03-15";"Región de Los Ríos";1;0;4
+"2020-03-16";"Región de Los Ríos";2;0;6
+"2020-03-17";"Región de Los Ríos";2;0;6
+"2020-03-18";"Región de Los Ríos";4;0;13
+"2020-03-19";"Región de Los Ríos";5;1;10
+"2020-03-20";"Región de Los Ríos";10;3;18
+"2020-03-21";"Región de Los Ríos";9;3;16
+"2020-03-22";"Región de Los Ríos";7;3;14
+"2020-03-23";"Región de Los Ríos";8;2;16
+"2020-03-24";"Región de Los Ríos";6;1;13
+"2020-03-25";"Región de Los Ríos";7;2;13
+"2020-03-26";"Región de Los Ríos";7;2;13
+"2020-03-27";"Región de Los Ríos";6;1;13
+"2020-03-28";"Región de Los Ríos";7;2;15
+"2020-03-29";"Región de Los Ríos";6;1;12
+"2020-03-30";"Región de Los Ríos";6;1;11
+"2020-03-31";"Región de Los Ríos";7;2;15
+"2020-04-01";"Región de Los Ríos";7;2;14
+"2020-04-02";"Región de Los Ríos";7;2;13
+"2020-04-03";"Región de Los Ríos";7;2;14
+"2020-04-04";"Región de Los Ríos";8;3;18
+"2020-04-05";"Región de Los Ríos";12;5;21
+"2020-04-06";"Región de Los Ríos";12;6;21
+"2020-04-07";"Región de Los Ríos";13;5;21
+"2020-04-08";"Región de Los Ríos";12;5;20
+"2020-04-09";"Región de Los Ríos";10;3;18
+"2020-04-10";"Región de Los Ríos";10;4;18
+"2020-04-11";"Región de Los Ríos";10;4;16
+"2020-04-12";"Región de Los Ríos";9;3;16
+"2020-04-13";"Región de Los Ríos";10;4;17
+"2020-04-14";"Región de Los Ríos";9;3;16
+"2020-04-15";"Región de Los Ríos";9;3;17
+"2020-04-16";"Región de Los Ríos";9;3;17
+"2020-04-17";"Región de Los Ríos";9;4;16
+"2020-04-18";"Región de Los Ríos";10;4;19
+"2020-04-19";"Región de Los Ríos";10;4;17
+"2020-04-20";"Región de Los Ríos";12;5;21
+"2020-04-21";"Región de Los Ríos";11;5;20
+"2020-04-22";"Región de Los Ríos";9;3;16
+"2020-04-23";"Región de Los Ríos";10;4;17
+"2020-04-24";"Región de Los Ríos";10;3;18
+"2020-04-25";"Región de Los Ríos";11;5;20
+"2020-04-26";"Región de Los Ríos";13;5;21
+"2020-04-27";"Región de Los Ríos";13;6;23
+"2020-04-28";"Región de Los Ríos";12;5;21
+"2020-04-29";"Región de Los Ríos";11;4;18
+"2020-04-30";"Región de Los Ríos";13;6;22
+"2020-05-01";"Región de Los Ríos";16;7;27
+"2020-05-02";"Región de Los Ríos";13;6;22
+"2020-05-03";"Región de Los Ríos";12;5;21
+"2020-05-04";"Región de Los Ríos";15;8;25
+"2020-05-05";"Región de Los Ríos";15;8;25
+"2020-05-06";"Región de Los Ríos";15;6;25
+"2020-05-07";"Región de Los Ríos";14;7;22
+"2020-05-08";"Región de Los Ríos";12;6;19
+"2020-05-09";"Región de Los Ríos";12;5;21
+"2020-05-10";"Región de Los Ríos";13;5;20
+"2020-05-11";"Región de Los Ríos";12;6;20
+"2020-05-12";"Región de Los Ríos";11;4;19
+"2020-05-13";"Región de Los Ríos";9;4;17
+"2020-05-14";"Región de Los Ríos";12;4;22
+"2020-05-15";"Región de Los Ríos";16;7;27
+"2020-05-16";"Región de Los Ríos";22;13;33
+"2020-05-17";"Región de Los Ríos";40;25;56
+"2020-05-18";"Región de Los Ríos";37;22;53
+"2020-05-19";"Región de Los Ríos";28;17;41
+"2020-05-20";"Región de Los Ríos";24;14;37
+"2020-05-21";"Región de Los Ríos";22;11;35
+"2020-05-22";"Región de Los Ríos";20;11;29
+"2020-05-23";"Región de Los Ríos";19;9;29
+"2020-05-24";"Región de Los Ríos";18;9;30
+"2020-05-25";"Región de Los Ríos";27;18;42
+"2020-05-26";"Región de Los Ríos";22;12;31
+"2020-05-27";"Región de Los Ríos";22;11;34
+"2020-05-28";"Región de Los Ríos";18;9;28
+"2020-05-29";"Región de Los Ríos";12;5;21
+"2020-05-30";"Región de Los Ríos";15;7;26
+"2020-05-31";"Región de Los Ríos";18;10;30
+"2020-06-01";"Región de Los Ríos";26;14;40
+"2020-06-02";"Región de Los Ríos";26;16;41
+"2020-06-03";"Región de Los Ríos";22;13;36
+"2020-06-04";"Región de Los Ríos";20;10;31
+"2020-06-05";"Región de Los Ríos";22;13;33
+"2020-06-06";"Región de Los Ríos";30;17;42
+"2020-06-07";"Región de Los Ríos";27;16;40
+"2020-06-08";"Región de Los Ríos";39;26;55
+"2020-06-09";"Región de Los Ríos";41;27;54
+"2020-06-10";"Región de Los Ríos";40;25;55
+"2020-06-11";"Región de Los Ríos";32;18;49
+"2020-06-12";"Región de Los Ríos";34;22;52
+"2020-06-13";"Región de Los Ríos";36;23;50
+"2020-06-14";"Región de Los Ríos";38;26;52
+"2020-06-15";"Región de Los Ríos";36;22;50
+"2020-06-16";"Región de Los Ríos";32;20;46
+"2020-06-17";"Región de Los Ríos";25;14;37
+"2020-06-18";"Región de Los Ríos";22;13;34
+"2020-06-19";"Región de Los Ríos";25;14;37
+"2020-06-20";"Región de Los Ríos";28;18;42
+"2020-06-21";"Región de Los Ríos";23;14;34
+"2020-06-22";"Región de Los Ríos";25;14;38
+"2020-06-23";"Región de Los Ríos";29;17;43
+"2020-06-24";"Región de Los Ríos";24;12;38
+"2020-06-25";"Región de Los Ríos";23;14;37
+"2020-06-26";"Región de Los Ríos";21;11;33
+"2020-06-27";"Región de Los Ríos";26;15;39
+"2020-06-28";"Región de Los Ríos";24;13;37
+"2020-06-29";"Región de Los Ríos";23;12;36
+"2020-06-30";"Región de Los Ríos";18;9;29
+"2020-07-01";"Región de Los Ríos";17;7;27
+"2020-07-02";"Región de Los Ríos";19;9;33
+"2020-07-03";"Región de Los Ríos";19;10;33
+"2020-07-04";"Región de Los Ríos";15;7;24
+"2020-07-05";"Región de Los Ríos";15;7;27
+"2020-07-06";"Región de Los Ríos";14;6;25
+"2020-07-07";"Región de Los Ríos";13;5;24
+"2020-07-08";"Región de Los Ríos";12;5;21
+"2020-07-09";"Región de Los Ríos";15;7;27
+"2020-07-10";"Región de Los Ríos";16;8;27
+"2020-07-11";"Región de Los Ríos";17;8;27
+"2020-07-12";"Región de Los Ríos";18;8;34
+"2020-07-13";"Región de Los Ríos";19;9;34
+"2020-07-14";"Región de Los Ríos";14;4;30
+"2020-07-15";"Región de Los Ríos";13;4;27
+"2020-07-16";"Región de Los Ríos";12;4;27
+"2020-07-17";"Región de Los Ríos";12;2;29
+"2020-03-01";"Región de Los Lagos";0;0;1
+"2020-03-02";"Región de Los Lagos";0;0;2
+"2020-03-03";"Región de Los Lagos";0;0;2
+"2020-03-04";"Región de Los Lagos";0;0;1
+"2020-03-05";"Región de Los Lagos";0;0;2
+"2020-03-06";"Región de Los Lagos";0;0;2
+"2020-03-07";"Región de Los Lagos";0;0;3
+"2020-03-08";"Región de Los Lagos";0;0;2
+"2020-03-09";"Región de Los Lagos";1;0;2
+"2020-03-10";"Región de Los Lagos";1;0;3
+"2020-03-11";"Región de Los Lagos";1;0;3
+"2020-03-12";"Región de Los Lagos";1;0;4
+"2020-03-13";"Región de Los Lagos";1;0;5
+"2020-03-14";"Región de Los Lagos";2;0;6
+"2020-03-15";"Región de Los Lagos";3;0;7
+"2020-03-16";"Región de Los Lagos";5;1;10
+"2020-03-17";"Región de Los Lagos";6;1;11
+"2020-03-18";"Región de Los Lagos";6;1;12
+"2020-03-19";"Región de Los Lagos";7;2;13
+"2020-03-20";"Región de Los Lagos";8;2;17
+"2020-03-21";"Región de Los Lagos";8;3;14
+"2020-03-22";"Región de Los Lagos";9;3;16
+"2020-03-23";"Región de Los Lagos";9;3;17
+"2020-03-24";"Región de Los Lagos";8;3;14
+"2020-03-25";"Región de Los Lagos";8;3;15
+"2020-03-26";"Región de Los Lagos";9;3;16
+"2020-03-27";"Región de Los Lagos";11;4;20
+"2020-03-28";"Región de Los Lagos";13;6;21
+"2020-03-29";"Región de Los Lagos";16;8;24
+"2020-03-30";"Región de Los Lagos";17;9;28
+"2020-03-31";"Región de Los Lagos";18;9;29
+"2020-04-01";"Región de Los Lagos";22;12;33
+"2020-04-02";"Región de Los Lagos";20;11;31
+"2020-04-03";"Región de Los Lagos";22;12;33
+"2020-04-04";"Región de Los Lagos";24;12;37
+"2020-04-05";"Región de Los Lagos";24;14;36
+"2020-04-06";"Región de Los Lagos";25;15;37
+"2020-04-07";"Región de Los Lagos";24;13;38
+"2020-04-08";"Región de Los Lagos";18;10;27
+"2020-04-09";"Región de Los Lagos";17;9;26
+"2020-04-10";"Región de Los Lagos";18;9;28
+"2020-04-11";"Región de Los Lagos";18;10;28
+"2020-04-12";"Región de Los Lagos";18;9;29
+"2020-04-13";"Región de Los Lagos";23;12;35
+"2020-04-14";"Región de Los Lagos";23;13;33
+"2020-04-15";"Región de Los Lagos";25;15;38
+"2020-04-16";"Región de Los Lagos";26;16;38
+"2020-04-17";"Región de Los Lagos";30;18;45
+"2020-04-18";"Región de Los Lagos";21;10;31
+"2020-04-19";"Región de Los Lagos";24;15;36
+"2020-04-20";"Región de Los Lagos";36;22;49
+"2020-04-21";"Región de Los Lagos";32;19;46
+"2020-04-22";"Región de Los Lagos";27;16;40
+"2020-04-23";"Región de Los Lagos";25;15;37
+"2020-04-24";"Región de Los Lagos";17;8;27
+"2020-04-25";"Región de Los Lagos";15;8;24
+"2020-04-26";"Región de Los Lagos";16;8;25
+"2020-04-27";"Región de Los Lagos";22;13;34
+"2020-04-28";"Región de Los Lagos";24;13;37
+"2020-04-29";"Región de Los Lagos";26;14;43
+"2020-04-30";"Región de Los Lagos";26;15;38
+"2020-05-01";"Región de Los Lagos";22;12;37
+"2020-05-02";"Región de Los Lagos";21;11;33
+"2020-05-03";"Región de Los Lagos";19;9;31
+"2020-05-04";"Región de Los Lagos";21;11;31
+"2020-05-05";"Región de Los Lagos";30;18;42
+"2020-05-06";"Región de Los Lagos";22;12;33
+"2020-05-07";"Región de Los Lagos";17;9;27
+"2020-05-08";"Región de Los Lagos";17;8;26
+"2020-05-09";"Región de Los Lagos";20;11;30
+"2020-05-10";"Región de Los Lagos";27;15;40
+"2020-05-11";"Región de Los Lagos";27;17;41
+"2020-05-12";"Región de Los Lagos";20;11;32
+"2020-05-13";"Región de Los Lagos";16;7;27
+"2020-05-14";"Región de Los Lagos";14;7;22
+"2020-05-15";"Región de Los Lagos";16;7;27
+"2020-05-16";"Región de Los Lagos";17;9;26
+"2020-05-17";"Región de Los Lagos";21;12;31
+"2020-05-18";"Región de Los Lagos";30;18;42
+"2020-05-19";"Región de Los Lagos";39;25;53
+"2020-05-20";"Región de Los Lagos";46;30;64
+"2020-05-21";"Región de Los Lagos";50;33;67
+"2020-05-22";"Región de Los Lagos";43;28;60
+"2020-05-23";"Región de Los Lagos";37;24;53
+"2020-05-24";"Región de Los Lagos";45;30;61
+"2020-05-25";"Región de Los Lagos";50;36;69
+"2020-05-26";"Región de Los Lagos";43;30;59
+"2020-05-27";"Región de Los Lagos";36;23;51
+"2020-05-28";"Región de Los Lagos";37;22;52
+"2020-05-29";"Región de Los Lagos";30;18;43
+"2020-05-30";"Región de Los Lagos";37;23;53
+"2020-05-31";"Región de Los Lagos";45;30;63
+"2020-06-01";"Región de Los Lagos";44;28;63
+"2020-06-02";"Región de Los Lagos";41;27;58
+"2020-06-03";"Región de Los Lagos";40;25;57
+"2020-06-04";"Región de Los Lagos";34;22;46
+"2020-06-05";"Región de Los Lagos";38;24;53
+"2020-06-06";"Región de Los Lagos";46;30;64
+"2020-06-07";"Región de Los Lagos";54;37;76
+"2020-06-08";"Región de Los Lagos";58;42;79
+"2020-06-09";"Región de Los Lagos";53;39;71
+"2020-06-10";"Región de Los Lagos";60;43;78
+"2020-06-11";"Región de Los Lagos";56;41;71
+"2020-06-12";"Región de Los Lagos";49;34;65
+"2020-06-13";"Región de Los Lagos";59;43;78
+"2020-06-14";"Región de Los Lagos";66;50;89
+"2020-06-15";"Región de Los Lagos";75;56;97
+"2020-06-16";"Región de Los Lagos";80;59;105
+"2020-06-17";"Región de Los Lagos";78;59;106
+"2020-06-18";"Región de Los Lagos";84;62;110
+"2020-06-19";"Región de Los Lagos";70;51;88
+"2020-06-20";"Región de Los Lagos";66;47;89
+"2020-06-21";"Región de Los Lagos";63;46;82
+"2020-06-22";"Región de Los Lagos";68;47;90
+"2020-06-23";"Región de Los Lagos";67;49;88
+"2020-06-24";"Región de Los Lagos";72;55;92
+"2020-06-25";"Región de Los Lagos";66;47;87
+"2020-06-26";"Región de Los Lagos";81;56;102
+"2020-06-27";"Región de Los Lagos";76;56;102
+"2020-06-28";"Región de Los Lagos";77;54;101
+"2020-06-29";"Región de Los Lagos";81;57;105
+"2020-06-30";"Región de Los Lagos";88;64;112
+"2020-07-01";"Región de Los Lagos";111;86;145
+"2020-07-02";"Región de Los Lagos";103;77;137
+"2020-07-03";"Región de Los Lagos";106;78;133
+"2020-07-04";"Región de Los Lagos";117;87;154
+"2020-07-05";"Región de Los Lagos";103;77;130
+"2020-07-06";"Región de Los Lagos";108;81;137
+"2020-07-07";"Región de Los Lagos";92;69;118
+"2020-07-08";"Región de Los Lagos";83;60;107
+"2020-07-09";"Región de Los Lagos";81;55;109
+"2020-07-10";"Región de Los Lagos";86;63;107
+"2020-07-11";"Región de Los Lagos";86;63;116
+"2020-07-12";"Región de Los Lagos";88;57;138
+"2020-07-13";"Región de Los Lagos";101;57;165
+"2020-07-14";"Región de Los Lagos";102;61;200
+"2020-07-15";"Región de Los Lagos";92;46;178
+"2020-07-16";"Región de Los Lagos";85;38;176
+"2020-07-17";"Región de Los Lagos";89;32;190
+"2020-03-01";"Región de Magallanes y la Antártica Chilena";0;0;2
+"2020-03-02";"Región de Magallanes y la Antártica Chilena";0;0;2
+"2020-03-03";"Región de Magallanes y la Antártica Chilena";0;0;2
+"2020-03-04";"Región de Magallanes y la Antártica Chilena";0;0;2
+"2020-03-05";"Región de Magallanes y la Antártica Chilena";0;0;2
+"2020-03-06";"Región de Magallanes y la Antártica Chilena";1;0;2
+"2020-03-07";"Región de Magallanes y la Antártica Chilena";1;0;3
+"2020-03-08";"Región de Magallanes y la Antártica Chilena";1;0;3
+"2020-03-09";"Región de Magallanes y la Antártica Chilena";1;0;3
+"2020-03-10";"Región de Magallanes y la Antártica Chilena";1;0;4
+"2020-03-11";"Región de Magallanes y la Antártica Chilena";1;0;4
+"2020-03-12";"Región de Magallanes y la Antártica Chilena";2;0;5
+"2020-03-13";"Región de Magallanes y la Antártica Chilena";2;0;5
+"2020-03-14";"Región de Magallanes y la Antártica Chilena";3;0;8
+"2020-03-15";"Región de Magallanes y la Antártica Chilena";4;1;10
+"2020-03-16";"Región de Magallanes y la Antártica Chilena";5;1;10
+"2020-03-17";"Región de Magallanes y la Antártica Chilena";6;2;12
+"2020-03-18";"Región de Magallanes y la Antártica Chilena";8;2;14
+"2020-03-19";"Región de Magallanes y la Antártica Chilena";9;3;16
+"2020-03-20";"Región de Magallanes y la Antártica Chilena";12;5;19
+"2020-03-21";"Región de Magallanes y la Antártica Chilena";13;6;24
+"2020-03-22";"Región de Magallanes y la Antártica Chilena";13;5;22
+"2020-03-23";"Región de Magallanes y la Antártica Chilena";17;8;27
+"2020-03-24";"Región de Magallanes y la Antártica Chilena";14;6;23
+"2020-03-25";"Región de Magallanes y la Antártica Chilena";17;8;28
+"2020-03-26";"Región de Magallanes y la Antártica Chilena";15;7;25
+"2020-03-27";"Región de Magallanes y la Antártica Chilena";13;5;23
+"2020-03-28";"Región de Magallanes y la Antártica Chilena";13;6;21
+"2020-03-29";"Región de Magallanes y la Antártica Chilena";11;5;19
+"2020-03-30";"Región de Magallanes y la Antártica Chilena";13;6;23
+"2020-03-31";"Región de Magallanes y la Antártica Chilena";17;8;28
+"2020-04-01";"Región de Magallanes y la Antártica Chilena";32;18;49
+"2020-04-02";"Región de Magallanes y la Antártica Chilena";27;16;38
+"2020-04-03";"Región de Magallanes y la Antártica Chilena";23;13;34
+"2020-04-04";"Región de Magallanes y la Antártica Chilena";21;10;32
+"2020-04-05";"Región de Magallanes y la Antártica Chilena";24;13;36
+"2020-04-06";"Región de Magallanes y la Antártica Chilena";24;13;37
+"2020-04-07";"Región de Magallanes y la Antártica Chilena";28;17;42
+"2020-04-08";"Región de Magallanes y la Antártica Chilena";21;11;32
+"2020-04-09";"Región de Magallanes y la Antártica Chilena";29;18;43
+"2020-04-10";"Región de Magallanes y la Antártica Chilena";27;18;40
+"2020-04-11";"Región de Magallanes y la Antártica Chilena";24;14;35
+"2020-04-12";"Región de Magallanes y la Antártica Chilena";23;11;38
+"2020-04-13";"Región de Magallanes y la Antártica Chilena";29;17;41
+"2020-04-14";"Región de Magallanes y la Antártica Chilena";22;12;33
+"2020-04-15";"Región de Magallanes y la Antártica Chilena";20;10;31
+"2020-04-16";"Región de Magallanes y la Antártica Chilena";19;10;33
+"2020-04-17";"Región de Magallanes y la Antártica Chilena";19;8;31
+"2020-04-18";"Región de Magallanes y la Antártica Chilena";17;8;27
+"2020-04-19";"Región de Magallanes y la Antártica Chilena";16;8;27
+"2020-04-20";"Región de Magallanes y la Antártica Chilena";18;9;29
+"2020-04-21";"Región de Magallanes y la Antártica Chilena";18;10;30
+"2020-04-22";"Región de Magallanes y la Antártica Chilena";17;9;29
+"2020-04-23";"Región de Magallanes y la Antártica Chilena";15;7;24
+"2020-04-24";"Región de Magallanes y la Antártica Chilena";16;7;26
+"2020-04-25";"Región de Magallanes y la Antártica Chilena";19;10;30
+"2020-04-26";"Región de Magallanes y la Antártica Chilena";19;10;30
+"2020-04-27";"Región de Magallanes y la Antártica Chilena";24;12;38
+"2020-04-28";"Región de Magallanes y la Antártica Chilena";20;11;31
+"2020-04-29";"Región de Magallanes y la Antártica Chilena";20;9;30
+"2020-04-30";"Región de Magallanes y la Antártica Chilena";21;11;32
+"2020-05-01";"Región de Magallanes y la Antártica Chilena";23;12;35
+"2020-05-02";"Región de Magallanes y la Antártica Chilena";18;9;28
+"2020-05-03";"Región de Magallanes y la Antártica Chilena";25;15;37
+"2020-05-04";"Región de Magallanes y la Antártica Chilena";29;17;43
+"2020-05-05";"Región de Magallanes y la Antártica Chilena";28;17;41
+"2020-05-06";"Región de Magallanes y la Antártica Chilena";23;14;35
+"2020-05-07";"Región de Magallanes y la Antártica Chilena";23;12;33
+"2020-05-08";"Región de Magallanes y la Antártica Chilena";21;11;33
+"2020-05-09";"Región de Magallanes y la Antártica Chilena";18;10;28
+"2020-05-10";"Región de Magallanes y la Antártica Chilena";26;14;37
+"2020-05-11";"Región de Magallanes y la Antártica Chilena";16;7;26
+"2020-05-12";"Región de Magallanes y la Antártica Chilena";16;9;27
+"2020-05-13";"Región de Magallanes y la Antártica Chilena";16;8;29
+"2020-05-14";"Región de Magallanes y la Antártica Chilena";14;6;24
+"2020-05-15";"Región de Magallanes y la Antártica Chilena";21;10;32
+"2020-05-16";"Región de Magallanes y la Antártica Chilena";15;7;26
+"2020-05-17";"Región de Magallanes y la Antártica Chilena";18;8;28
+"2020-05-18";"Región de Magallanes y la Antártica Chilena";16;7;26
+"2020-05-19";"Región de Magallanes y la Antártica Chilena";12;4;20
+"2020-05-20";"Región de Magallanes y la Antártica Chilena";15;7;25
+"2020-05-21";"Región de Magallanes y la Antártica Chilena";11;4;19
+"2020-05-22";"Región de Magallanes y la Antártica Chilena";13;6;21
+"2020-05-23";"Región de Magallanes y la Antártica Chilena";11;4;21
+"2020-05-24";"Región de Magallanes y la Antártica Chilena";11;4;20
+"2020-05-25";"Región de Magallanes y la Antártica Chilena";11;4;20
+"2020-05-26";"Región de Magallanes y la Antártica Chilena";8;3;15
+"2020-05-27";"Región de Magallanes y la Antártica Chilena";10;3;18
+"2020-05-28";"Región de Magallanes y la Antártica Chilena";9;4;17
+"2020-05-29";"Región de Magallanes y la Antártica Chilena";7;3;13
+"2020-05-30";"Región de Magallanes y la Antártica Chilena";9;4;17
+"2020-05-31";"Región de Magallanes y la Antártica Chilena";7;2;14
+"2020-06-01";"Región de Magallanes y la Antártica Chilena";12;4;20
+"2020-06-02";"Región de Magallanes y la Antártica Chilena";7;2;14
+"2020-06-03";"Región de Magallanes y la Antártica Chilena";9;4;16
+"2020-06-04";"Región de Magallanes y la Antártica Chilena";8;2;15
+"2020-06-05";"Región de Magallanes y la Antártica Chilena";10;5;18
+"2020-06-06";"Región de Magallanes y la Antártica Chilena";12;6;20
+"2020-06-07";"Región de Magallanes y la Antártica Chilena";11;4;21
+"2020-06-08";"Región de Magallanes y la Antártica Chilena";12;5;22
+"2020-06-09";"Región de Magallanes y la Antártica Chilena";10;4;19
+"2020-06-10";"Región de Magallanes y la Antártica Chilena";11;5;18
+"2020-06-11";"Región de Magallanes y la Antártica Chilena";11;5;21
+"2020-06-12";"Región de Magallanes y la Antártica Chilena";12;5;22
+"2020-06-13";"Región de Magallanes y la Antártica Chilena";17;8;28
+"2020-06-14";"Región de Magallanes y la Antártica Chilena";15;7;24
+"2020-06-15";"Región de Magallanes y la Antártica Chilena";20;10;30
+"2020-06-16";"Región de Magallanes y la Antártica Chilena";17;8;27
+"2020-06-17";"Región de Magallanes y la Antártica Chilena";22;11;35
+"2020-06-18";"Región de Magallanes y la Antártica Chilena";15;7;24
+"2020-06-19";"Región de Magallanes y la Antártica Chilena";15;6;24
+"2020-06-20";"Región de Magallanes y la Antártica Chilena";18;9;26
+"2020-06-21";"Región de Magallanes y la Antártica Chilena";20;11;32
+"2020-06-22";"Región de Magallanes y la Antártica Chilena";26;14;40
+"2020-06-23";"Región de Magallanes y la Antártica Chilena";22;12;37
+"2020-06-24";"Región de Magallanes y la Antártica Chilena";22;12;36
+"2020-06-25";"Región de Magallanes y la Antártica Chilena";27;16;41
+"2020-06-26";"Región de Magallanes y la Antártica Chilena";21;11;33
+"2020-06-27";"Región de Magallanes y la Antártica Chilena";20;11;33
+"2020-06-28";"Región de Magallanes y la Antártica Chilena";18;9;31
+"2020-06-29";"Región de Magallanes y la Antártica Chilena";23;12;39
+"2020-06-30";"Región de Magallanes y la Antártica Chilena";24;12;45
+"2020-07-01";"Región de Magallanes y la Antártica Chilena";22;11;40
+"2020-07-02";"Región de Magallanes y la Antártica Chilena";20;9;33
+"2020-07-03";"Región de Magallanes y la Antártica Chilena";23;12;37
+"2020-07-04";"Región de Magallanes y la Antártica Chilena";30;16;46
+"2020-07-05";"Región de Magallanes y la Antártica Chilena";22;13;32
+"2020-07-06";"Región de Magallanes y la Antártica Chilena";22;11;34
+"2020-07-07";"Región de Magallanes y la Antártica Chilena";26;14;40
+"2020-07-08";"Región de Magallanes y la Antártica Chilena";21;11;35
+"2020-07-09";"Región de Magallanes y la Antártica Chilena";29;16;43
+"2020-07-10";"Región de Magallanes y la Antártica Chilena";25;13;39
+"2020-07-11";"Región de Magallanes y la Antártica Chilena";31;19;48
+"2020-07-12";"Región de Magallanes y la Antártica Chilena";33;16;71
+"2020-07-13";"Región de Magallanes y la Antártica Chilena";19;8;42
+"2020-07-14";"Región de Magallanes y la Antártica Chilena";20;8;45
+"2020-07-15";"Región de Magallanes y la Antártica Chilena";13;4;26
+"2020-07-16";"Región de Magallanes y la Antártica Chilena";12;4;26
+"2020-07-17";"Región de Magallanes y la Antártica Chilena";11;3;26
+"2020-03-01";"Región de Atacama";0;0;1
+"2020-03-02";"Región de Atacama";0;0;1
+"2020-03-03";"Región de Atacama";0;0;1
+"2020-03-04";"Región de Atacama";0;0;2
+"2020-03-05";"Región de Atacama";0;0;1
+"2020-03-06";"Región de Atacama";0;0;2
+"2020-03-07";"Región de Atacama";0;0;1
+"2020-03-08";"Región de Atacama";0;0;2
+"2020-03-09";"Región de Atacama";0;0;2
+"2020-03-10";"Región de Atacama";0;0;2
+"2020-03-11";"Región de Atacama";0;0;2
+"2020-03-12";"Región de Atacama";0;0;2
+"2020-03-13";"Región de Atacama";0;0;2
+"2020-03-14";"Región de Atacama";1;0;2
+"2020-03-15";"Región de Atacama";0;0;2
+"2020-03-16";"Región de Atacama";1;0;2
+"2020-03-17";"Región de Atacama";1;0;2
+"2020-03-18";"Región de Atacama";1;0;2
+"2020-03-19";"Región de Atacama";1;0;2
+"2020-03-20";"Región de Atacama";1;0;3
+"2020-03-21";"Región de Atacama";1;0;3
+"2020-03-22";"Región de Atacama";1;0;3
+"2020-03-23";"Región de Atacama";1;0;3
+"2020-03-24";"Región de Atacama";1;0;4
+"2020-03-25";"Región de Atacama";1;0;4
+"2020-03-26";"Región de Atacama";2;0;5
+"2020-03-27";"Región de Atacama";2;0;5
+"2020-03-28";"Región de Atacama";3;0;7
+"2020-03-29";"Región de Atacama";3;0;7
+"2020-03-30";"Región de Atacama";3;0;7
+"2020-03-31";"Región de Atacama";3;0;7
+"2020-04-01";"Región de Atacama";4;0;7
+"2020-04-02";"Región de Atacama";4;1;9
+"2020-04-03";"Región de Atacama";4;0;10
+"2020-04-04";"Región de Atacama";3;0;8
+"2020-04-05";"Región de Atacama";4;0;8
+"2020-04-06";"Región de Atacama";5;0;10
+"2020-04-07";"Región de Atacama";5;1;10
+"2020-04-08";"Región de Atacama";5;1;10
+"2020-04-09";"Región de Atacama";6;1;12
+"2020-04-10";"Región de Atacama";6;1;10
+"2020-04-11";"Región de Atacama";4;1;8
+"2020-04-12";"Región de Atacama";3;1;7
+"2020-04-13";"Región de Atacama";3;0;7
+"2020-04-14";"Región de Atacama";3;0;8
+"2020-04-15";"Región de Atacama";4;0;8
+"2020-04-16";"Región de Atacama";3;0;8
+"2020-04-17";"Región de Atacama";4;0;10
+"2020-04-18";"Región de Atacama";4;1;10
+"2020-04-19";"Región de Atacama";5;1;11
+"2020-04-20";"Región de Atacama";7;2;14
+"2020-04-21";"Región de Atacama";10;3;17
+"2020-04-22";"Región de Atacama";19;10;31
+"2020-04-23";"Región de Atacama";16;8;27
+"2020-04-24";"Región de Atacama";20;11;30
+"2020-04-25";"Región de Atacama";31;20;48
+"2020-04-26";"Región de Atacama";21;11;33
+"2020-04-27";"Región de Atacama";21;12;33
+"2020-04-28";"Región de Atacama";20;11;32
+"2020-04-29";"Región de Atacama";18;9;27
+"2020-04-30";"Región de Atacama";23;13;33
+"2020-05-01";"Región de Atacama";28;16;42
+"2020-05-02";"Región de Atacama";26;15;40
+"2020-05-03";"Región de Atacama";18;9;29
+"2020-05-04";"Región de Atacama";23;12;35
+"2020-05-05";"Región de Atacama";20;11;32
+"2020-05-06";"Región de Atacama";17;9;27
+"2020-05-07";"Región de Atacama";18;9;29
+"2020-05-08";"Región de Atacama";20;11;32
+"2020-05-09";"Región de Atacama";18;9;30
+"2020-05-10";"Región de Atacama";20;12;32
+"2020-05-11";"Región de Atacama";15;7;26
+"2020-05-12";"Región de Atacama";11;5;20
+"2020-05-13";"Región de Atacama";11;5;20
+"2020-05-14";"Región de Atacama";11;5;19
+"2020-05-15";"Región de Atacama";14;7;25
+"2020-05-16";"Región de Atacama";12;5;20
+"2020-05-17";"Región de Atacama";13;6;21
+"2020-05-18";"Región de Atacama";14;7;22
+"2020-05-19";"Región de Atacama";15;7;26
+"2020-05-20";"Región de Atacama";14;6;23
+"2020-05-21";"Región de Atacama";17;9;29
+"2020-05-22";"Región de Atacama";16;7;27
+"2020-05-23";"Región de Atacama";20;12;31
+"2020-05-24";"Región de Atacama";26;14;38
+"2020-05-25";"Región de Atacama";23;13;36
+"2020-05-26";"Región de Atacama";22;11;35
+"2020-05-27";"Región de Atacama";21;13;32
+"2020-05-28";"Región de Atacama";21;11;31
+"2020-05-29";"Región de Atacama";22;12;33
+"2020-05-30";"Región de Atacama";26;15;38
+"2020-05-31";"Región de Atacama";29;18;43
+"2020-06-01";"Región de Atacama";35;21;52
+"2020-06-02";"Región de Atacama";31;18;45
+"2020-06-03";"Región de Atacama";33;19;48
+"2020-06-04";"Región de Atacama";37;24;53
+"2020-06-05";"Región de Atacama";43;29;58
+"2020-06-06";"Región de Atacama";43;29;59
+"2020-06-07";"Región de Atacama";47;34;64
+"2020-06-08";"Región de Atacama";52;36;69
+"2020-06-09";"Región de Atacama";49;34;68
+"2020-06-10";"Región de Atacama";54;38;71
+"2020-06-11";"Región de Atacama";52;35;71
+"2020-06-12";"Región de Atacama";54;38;76
+"2020-06-13";"Región de Atacama";62;45;86
+"2020-06-14";"Región de Atacama";57;41;74
+"2020-06-15";"Región de Atacama";65;46;87
+"2020-06-16";"Región de Atacama";57;39;77
+"2020-06-17";"Región de Atacama";58;42;77
+"2020-06-18";"Región de Atacama";54;40;71
+"2020-06-19";"Región de Atacama";52;36;71
+"2020-06-20";"Región de Atacama";57;41;75
+"2020-06-21";"Región de Atacama";72;54;93
+"2020-06-22";"Región de Atacama";67;49;84
+"2020-06-23";"Región de Atacama";55;38;77
+"2020-06-24";"Región de Atacama";55;39;72
+"2020-06-25";"Región de Atacama";57;41;75
+"2020-06-26";"Región de Atacama";54;39;72
+"2020-06-27";"Región de Atacama";56;40;76
+"2020-06-28";"Región de Atacama";59;41;78
+"2020-06-29";"Región de Atacama";59;42;79
+"2020-06-30";"Región de Atacama";76;53;101
+"2020-07-01";"Región de Atacama";82;61;108
+"2020-07-02";"Región de Atacama";79;53;102
+"2020-07-03";"Región de Atacama";82;60;106
+"2020-07-04";"Región de Atacama";78;59;100
+"2020-07-05";"Región de Atacama";78;58;100
+"2020-07-06";"Región de Atacama";83;61;112
+"2020-07-07";"Región de Atacama";76;55;102
+"2020-07-08";"Región de Atacama";63;45;86
+"2020-07-09";"Región de Atacama";58;38;80
+"2020-07-10";"Región de Atacama";51;35;72
+"2020-07-11";"Región de Atacama";57;41;78
+"2020-07-12";"Región de Atacama";59;39;83
+"2020-07-13";"Región de Atacama";56;36;82
+"2020-07-14";"Región de Atacama";47;30;70
+"2020-07-15";"Región de Atacama";42;24;67
+"2020-07-16";"Región de Atacama";45;22;76
+"2020-07-17";"Región de Atacama";47;19;88
+"2020-03-01";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-02";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-03";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-04";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-05";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-06";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-07";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-08";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-09";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-10";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-11";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-12";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-13";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-14";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-03-15";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-16";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-03-17";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-18";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-19";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-20";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-21";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-03-22";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-23";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-24";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-25";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-26";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-03-27";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-28";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-03-29";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-03-30";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-03-31";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-04-01";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;3
+"2020-04-02";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;2
+"2020-04-03";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-04";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-05";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-06";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-07";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-08";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-09";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-10";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-11";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-12";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-13";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-04-14";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-04-15";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-04-16";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-17";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-18";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-04-19";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-20";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-21";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-04-22";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-23";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-24";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-25";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-26";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-27";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-04-28";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-04-29";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-04-30";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-05-01";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-05-02";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;1
+"2020-05-03";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-05-04";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-05-05";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;2
+"2020-05-06";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-05-07";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-05-08";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-05-09";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-05-10";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-05-11";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;2
+"2020-05-12";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;2
+"2020-05-13";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-05-14";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-05-15";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-05-16";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-05-17";"Región de Aysén del General Carlos Ibáñez del Campo";0;0;2
+"2020-05-18";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-05-19";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-05-20";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;6
+"2020-05-21";"Región de Aysén del General Carlos Ibáñez del Campo";4;0;9
+"2020-05-22";"Región de Aysén del General Carlos Ibáñez del Campo";4;1;9
+"2020-05-23";"Región de Aysén del General Carlos Ibáñez del Campo";4;0;11
+"2020-05-24";"Región de Aysén del General Carlos Ibáñez del Campo";4;0;9
+"2020-05-25";"Región de Aysén del General Carlos Ibáñez del Campo";6;2;13
+"2020-05-26";"Región de Aysén del General Carlos Ibáñez del Campo";5;1;11
+"2020-05-27";"Región de Aysén del General Carlos Ibáñez del Campo";3;0;6
+"2020-05-28";"Región de Aysén del General Carlos Ibáñez del Campo";3;0;8
+"2020-05-29";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;7
+"2020-05-30";"Región de Aysén del General Carlos Ibáñez del Campo";4;0;9
+"2020-05-31";"Región de Aysén del General Carlos Ibáñez del Campo";3;0;7
+"2020-06-01";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;5
+"2020-06-02";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-06-03";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;6
+"2020-06-04";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;4
+"2020-06-05";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;6
+"2020-06-06";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;5
+"2020-06-07";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-06-08";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-06-09";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-06-10";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-06-11";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-06-12";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-06-13";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-06-14";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;5
+"2020-06-15";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-06-16";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;5
+"2020-06-17";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-06-18";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;5
+"2020-06-19";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-06-20";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;7
+"2020-06-21";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-06-22";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;6
+"2020-06-23";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;5
+"2020-06-24";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;6
+"2020-06-25";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-06-26";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-06-27";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;3
+"2020-06-28";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-06-29";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-06-30";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-07-01";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-07-02";"Región de Aysén del General Carlos Ibáñez del Campo";1;0;4
+"2020-07-03";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;5
+"2020-07-04";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;5
+"2020-07-05";"Región de Aysén del General Carlos Ibáñez del Campo";2;0;6
+"2020-07-06";"Región de Aysén del General Carlos Ibáñez del Campo";3;0;8
+"2020-07-07";"Región de Aysén del General Carlos Ibáñez del Campo";3;0;7
+"2020-07-08";"Región de Aysén del General Carlos Ibáñez del Campo";4;0;9
+"2020-07-09";"Región de Aysén del General Carlos Ibáñez del Campo";5;0;11
+"2020-07-10";"Región de Aysén del General Carlos Ibáñez del Campo";4;0;10
+"2020-07-11";"Región de Aysén del General Carlos Ibáñez del Campo";5;0;14
+"2020-07-12";"Región de Aysén del General Carlos Ibáñez del Campo";6;1;14
+"2020-07-13";"Región de Aysén del General Carlos Ibáñez del Campo";4;0;9
+"2020-07-14";"Región de Aysén del General Carlos Ibáñez del Campo";3;0;8
+"2020-07-15";"Región de Aysén del General Carlos Ibáñez del Campo";3;0;8
+"2020-07-16";"Región de Aysén del General Carlos Ibáñez del Campo";3;0;9
+"2020-07-17";"Región de Aysén del General Carlos Ibáñez del Campo";3;0;9
